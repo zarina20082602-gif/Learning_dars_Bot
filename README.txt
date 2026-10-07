@@ -1,9 +1,17 @@
-Learning_dars_Bot — без платного доступа по Telegram ID.
+Learning_dars_Bot — o‘zbekcha interfeys.
 
-Railway variable:
-BOT_TOKEN = token from BotFather
+Railway:
+BOT_TOKEN = BotFather bergan token
 
-Start command:
+Ishga tushirish:
 python bot.py
 
-После /start бот сразу открывает список предметов всем пользователям.
+/start bosilganda fanlar menyusi ochiladi.
+Fanlar:
+- Basic Statistics
+- International Economic Law
+
+Rejimlar:
+- Yodlash
+- Mashq
+- Imtihon

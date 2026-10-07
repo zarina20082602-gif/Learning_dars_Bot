@@ -6,12 +6,12 @@
       "questions": [
         {
           "id": 1,
-          "question": "Совокупность объектов по качественной или количественной характеристике\n называется общей анализируемой совокупностью. Заполните место многоточия.\n Biror sifat yoki miqdoriy alomatga ko‘ra obyektlar to‘plami tahlil qilinayotgan umumiy to‘plamga\n ... deb ataladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Biror sifat yoki miqdoriy alomatga ko‘ra obyektlar to‘plami tahlil qilinayotgan umumiy to‘plamga ... deb ataladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "bosh to‘plam / Генеральная совокупность",
-            "tanlanma to‘plam / Выборка (выборочная совокупность)",
-            "ixtiyoriy to‘plam / произвольная совокупность",
-            "muhim to‘plam / важная совокупность"
+            "bosh to‘plam",
+            "tanlanma to‘plam",
+            "ixtiyoriy to‘plam",
+            "muhim to‘plam"
           ],
           "correct": [
             0
@@ -25,12 +25,12 @@
         },
         {
           "id": 2,
-          "question": "... относится к набору случайно выбранных объектов для статистического\n анализа. Заполните место многоточия.\n ... deb statistik tahlil uchun tasodifiy ravishda tanlab olingan obyektlar to‘plamiga aytiladi.\n Nuqtalar o‘rnini to‘ldiring.",
+          "question": "... deb statistik tahlil uchun tasodifiy ravishda tanlab olingan obyektlar to‘plamiga aytiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "Tanlanma (tanlanma to‘plam) / Выборка (выборочная совокупность)",
-            "bosh to‘plam / Генеральная совокупность",
-            "ixtiyoriy to‘plam / произвольная совокупность",
-            "muhim to‘plam / важная совокупность"
+            "Tanlanma (tanlanma to‘plam)",
+            "bosh to‘plam",
+            "ixtiyoriy to‘plam",
+            "muhim to‘plam"
           ],
           "correct": [
             0
@@ -44,12 +44,12 @@
         },
         {
           "id": 3,
-          "question": "Объём генеральной совокупности называется числом... Заполните место\n многоточия.\n Bosh to‘plam hajmi deb ... soniga aytiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Bosh to‘plam hajmi deb ... soniga aytiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "to‘plamdagi barcha obyektlar / все объекты в совокупности",
-            "to‘plamdagi tanlab olingan obyektlar / выбранные объекты",
-            "bosh to‘plam hajmini aniqlab bo‘lmaydi / Объём генеральной совокупности не может быть\n  определён",
-            "bunday tushuncha mavjud emas / такого понятия не существует"
+            "to‘plamdagi barcha obyektlar",
+            "to‘plamdagi tanlab olingan obyektlar",
+            "bosh to‘plam hajmini aniqlab bo‘lmaydi",
+            "bunday tushuncha mavjud emas"
           ],
           "correct": [
             0
@@ -63,12 +63,12 @@
         },
         {
           "id": 4,
-          "question": "Частота выборки... Заполните место многоточия.\n Tanlanma chastotasi ... . Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Tanlanma chastotasi ... . Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "absolyut miqdor bo‘lib, har variantning to‘plamda necha bor uchrashini\n   ko‘rsatadi / абсолютное число, указывающее, сколько раз каждая варианта\n   встречается в совокупности",
-            "nisbiy miqdor bo‘lib, har variantning to‘plamda necha foiz bor uchrashini ko‘rsatadi /\n   относительная сумма, указывающая процент вхождений каждой варианты в совокупности",
-            "o‘zgaruvchi belgining miqdorlari majmuasi / массив величин переменного символа",
-            "tartibli variatsion qator / упорядоченный вариационный ряд"
+            "absolyut miqdor bo‘lib, har variantning to‘plamda necha bor uchrashini\n   ko‘rsatadi",
+            "nisbiy miqdor bo‘lib, har variantning to‘plamda necha foiz bor uchrashini ko‘rsatadi",
+            "o‘zgaruvchi belgining miqdorlari majmuasi",
+            "tartibli variatsion qator"
           ],
           "correct": [
             0
@@ -82,7 +82,7 @@
         },
         {
           "id": 5,
-          "question": "Если варианты выборки xi, i = 1,...,n, покажите формулу, определяющую\n среднее арифметическое.\n Agar tanlanma variantlari xi, i = 1,...,n bo‘lsa, arifmetik o‘rtachani aniqlovchi bandni ko‘rsating.",
+          "question": "Agar tanlanma variantlari xi, i = 1,...,n bo‘lsa, arifmetik o‘rtachani aniqlovchi bandni ko‘rsating.",
           "options": [
             "X̄ = (1/n) Σi=1n xi ni",
             "X̄ = n Σi=1n xi",
@@ -101,12 +101,12 @@
         },
         {
           "id": 6,
-          "question": "Если вариантами выборки являются xi, i = 1,...,n, что определяется формулой X̄\n = (1/n) Σi=1n xi?\n Agar tanlanma variantlari xi, i = 1,...,n bo‘lsa, ushbu X̄ = (1/n) Σi=1n xi formula orqali\n quyidagilardan qaysi biri aniqlanadi?",
+          "question": "Agar tanlanma variantlari xi, i = 1,...,n bo‘lsa, ushbu X̄ = (1/n) Σi=1n xi formula orqali quyidagilardan qaysi biri aniqlanadi?",
           "options": [
-            "arifmetik o‘rtacha / среднее арифметическое",
-            "dispersiya / дисперсия",
-            "o‘rtacha chiziqli farq / средняя линейная разность",
-            "o‘rtacha kvadratik farq / среднеквадратическая разница"
+            "arifmetik o‘rtacha",
+            "dispersiya",
+            "o‘rtacha chiziqli farq",
+            "o‘rtacha kvadratik farq"
           ],
           "correct": [
             0
@@ -120,12 +120,12 @@
         },
         {
           "id": 7,
-          "question": "Мода - это...\n Moda M0 deb ...",
+          "question": "Moda M0 deb ...",
           "options": [
-            "eng katta chastotaga ega bo‘lgan variantaga aytiladi / относится к варианту с\n   наибольшей частотой",
-            "variatsion qatorni variantalar soni teng bo‘lgan ikki qismga ajratadigan variantaga aytiladi /\n   относится к варианту, который делит вариационный ряд на две части с равным\n   количеством вариантов",
-            "eng kichkina chastotaga ega bo‘lgan variantaga aytiladi / относится к варианту с\n   наименьшей частотой",
-            "variatsion qatorning ekstremal qiymatlari farqiga aytiladi / разность крайних значений\n   вариационного ряда"
+            "eng katta chastotaga ega bo‘lgan variantaga aytiladi",
+            "variatsion qatorni variantalar soni teng bo‘lgan ikki qismga ajratadigan variantaga aytiladi",
+            "eng kichkina chastotaga ega bo‘lgan variantaga aytiladi",
+            "variatsion qatorning ekstremal qiymatlari farqiga aytiladi"
           ],
           "correct": [
             0
@@ -139,12 +139,12 @@
         },
         {
           "id": 8,
-          "question": "Вариация - это...\n Variatsiya - bu ...",
+          "question": "Variatsiya - bu ...",
           "options": [
-            "belgining o‘zgarishidir / это смена знака",
-            "o‘zgaruvchi belgining konkret ifodasi / конкретное выражение переменного характера",
-            "o‘zgaruvchi belgining miqdorlari majmuasi / массив величин переменной величины",
-            "qatorning ekstremal qiymatlari farqi / разность крайних значений ряда"
+            "belgining o‘zgarishidir",
+            "o‘zgaruvchi belgining konkret ifodasi",
+            "o‘zgaruvchi belgining miqdorlari majmuasi",
+            "qatorning ekstremal qiymatlari farqi"
           ],
           "correct": [
             0
@@ -158,12 +158,12 @@
         },
         {
           "id": 9,
-          "question": "Варианта...\n Variant - bu ...",
+          "question": "Variant - bu ...",
           "options": [
-            "o‘zgaruvchi belgining konkret ifodasi / конкретное выражение переменного\n   символа",
-            "belgining o‘zgarishi / смена знака",
-            "o‘zgaruvchi belgining miqdorlari majmuasi / массив величин переменного символа",
-            "variatsion qatorning ekstremal qiymatlari farqi / разность крайних значений\n   вариационного ряда"
+            "o‘zgaruvchi belgining konkret ifodasi",
+            "belgining o‘zgarishi",
+            "o‘zgaruvchi belgining miqdorlari majmuasi",
+            "variatsion qatorning ekstremal qiymatlari farqi"
           ],
           "correct": [
             0
@@ -177,12 +177,12 @@
         },
         {
           "id": 10,
-          "question": "Размах вариационного ряда...\n Variatsiya kengligi (chegarasi) - bu ...",
+          "question": "Variatsiya kengligi (chegarasi) - bu ...",
           "options": [
-            "variatsion qatorning ekstremal (eng katta va eng kichik) qiymatlari farqi /\n   разность крайних (наибольших и наименьших) значений вариационного ряда",
-            "o‘zgaruvchi belgining konkret ifodasi / конкретное выражение переменного символа",
-            "o‘zgaruvchi belgining miqdorlari majmuasi / массив величин переменного символа",
-            "belgining o‘zgarishidir / смена знака"
+            "variatsion qatorning ekstremal (eng katta va eng kichik) qiymatlari farqi",
+            "o‘zgaruvchi belgining konkret ifodasi",
+            "o‘zgaruvchi belgining miqdorlari majmuasi",
+            "belgining o‘zgarishidir"
           ],
           "correct": [
             0
@@ -196,12 +196,12 @@
         },
         {
           "id": 11,
-          "question": "Если Xmin и Xmax являются минимальным и максимальным значениями\n вариационного ряда соответственно, что представляет собой равенство R = Xmax\n - Xmin?\n Agar Xmin va Xmax variatsion qatorning mos ravishda eng kichik va eng katta qiymatlari bo‘lsa, R\n = Xmax - Xmin tenglik quyidagilardan qaysi birini ifodalaydi?",
+          "question": "Agar Xmin va Xmax variatsion qatorning mos ravishda eng kichik va eng katta qiymatlari bo‘lsa, R = Xmax - Xmin tenglik quyidagilardan qaysi birini ifodalaydi?",
           "options": [
-            "Variatsiya kengligi (chegarasini) / Размах",
-            "Variatsion qatorni / Вариационный ряд",
-            "Variatsion qator elementlarini / Элементы вариационного ряда",
-            "Variantni / Вариант"
+            "Variatsiya kengligi (chegarasini)",
+            "Variatsion qatorni",
+            "Variatsion qator elementlarini",
+            "Variantni"
           ],
           "correct": [
             0
@@ -215,12 +215,12 @@
         },
         {
           "id": 12,
-          "question": "Если выборка расположена в порядке возрастания (или убывания) значений,\n она называется...\n Agar tanlanma to‘plam qiymatlar bo‘yicha o‘sish (yoki kamayish) tartibida joylashtirilsa, unga ...\n deyiladi.",
+          "question": "Agar tanlanma to‘plam qiymatlar bo‘yicha o‘sish (yoki kamayish) tartibida joylashtirilsa, unga ... deyiladi.",
           "options": [
-            "variatsion qator / Вариационный ряд",
-            "dispersiya / дисперсия",
-            "o‘rtacha kvadratik qiymat / среднеквадратическое значение",
-            "tuzatilgan dispersiya / исправленная дисперсия"
+            "variatsion qator",
+            "dispersiya",
+            "o‘rtacha kvadratik qiymat",
+            "tuzatilgan dispersiya"
           ],
           "correct": [
             0
@@ -234,12 +234,12 @@
         },
         {
           "id": 13,
-          "question": "Какие методы математической статистики вы знаете?\n Matematik statistika usullari quyidagi qaysi usullarga bo‘linadi?",
+          "question": "Matematik statistika usullari quyidagi qaysi usullarga bo‘linadi?",
           "options": [
-            "dispersion tahlil, korrelyatsion va regression tahlil, omilli tahlil, indekslar\n   nazariyasi / дисперсионный анализ, корреляционный и регрессионный анализ,\n   факторный анализ, теория индексов",
-            "ishlab chiqarish funksiyalari nazariyasi, talab va taklif tahlili, chiziqli dasturlash / теория\n   производственных функций, анализ спроса и предложения, линейное программирование",
-            "ishlab chiqarish funksiyalari nazariyasi, talab va taklif tahlili, optimal dasturlash / теория\n   производственных функций, анализ спроса и предложения, оптимальное\n   программирование",
-            "ishlab chiqarish funksiyalari nazariyasi, omilli tahlil, indekslar nazariyasi / теория\n   производственных функций, факторный анализ, теория индексов"
+            "dispersion tahlil, korrelyatsion va regression tahlil, omilli tahlil, indekslar\n   nazariyasi",
+            "ishlab chiqarish funksiyalari nazariyasi, talab va taklif tahlili, chiziqli dasturlash",
+            "ishlab chiqarish funksiyalari nazariyasi, talab va taklif tahlili, optimal dasturlash",
+            "ishlab chiqarish funksiyalari nazariyasi, omilli tahlil, indekslar nazariyasi"
           ],
           "correct": [
             0
@@ -253,12 +253,12 @@
         },
         {
           "id": 14,
-          "question": "Если в выборке вариант x1 наблюдается n1 раз, вариант x2 - n2 раз, вариант xk -\n nk раз, то числа n1, n2, ..., nk называются...\n Agar tanlanmada x1 varianta n1 marta, x2 varianta n2 marta, xk varianta nk marta kuzatilgan\n bo‘lsa, u holda n1, n2, ..., nk sonlar ... deyiladi.",
+          "question": "Agar tanlanmada x1 varianta n1 marta, x2 varianta n2 marta, xk varianta nk marta kuzatilgan bo‘lsa, u holda n1, n2, ..., nk sonlar ... deyiladi.",
           "options": [
-            "chastotalar / частоты",
-            "nisbiy chastotalar / относительные частоты",
-            "kuzatish natijalari / результаты наблюдения",
-            "tanlanma zichligi / плотность выборки"
+            "chastotalar",
+            "nisbiy chastotalar",
+            "kuzatish natijalari",
+            "tanlanma zichligi"
           ],
           "correct": [
             0
@@ -272,12 +272,12 @@
         },
         {
           "id": 15,
-          "question": "Если в выборке вариант x1 наблюдается n1 раз, вариант x2 - n2 раз, вариант xk -\n nk раз, числа wi = ni/n (i = 1,2,...,k) называются... (где n1 + n2 + ... + nk = n).\n Agar tanlanmada x1 varianta n1 marta, x2 varianta n2 marta, xk varianta nk marta kuzatilgan\n bo‘lsa, u holda wi = ni/n (i = 1,2,...,k) sonlar ... deyiladi (bu yerda n1 + n2 + ... + nk = n).",
+          "question": "Agar tanlanmada x1 varianta n1 marta, x2 varianta n2 marta, xk varianta nk marta kuzatilgan bo‘lsa, u holda wi = ni/n (i = 1,2,...,k) sonlar ... deyiladi (bu yerda n1 + n2 + ... + nk = n).",
           "options": [
-            "nisbiy chastotalar / относительные частоты",
-            "chastotalar / частоты",
-            "kuzatish natijalari / результаты наблюдения",
-            "tanlanma zichligi / плотность выборки"
+            "nisbiy chastotalar",
+            "chastotalar",
+            "kuzatish natijalari",
+            "tanlanma zichligi"
           ],
           "correct": [
             0
@@ -291,12 +291,12 @@
         },
         {
           "id": 16,
-          "question": "Если относительные частоты выборки равны wi, i = 1,2,...,k, какое из\n следующих уравнений подходит для суммы относительных частот?\n Agar tanlanmaning nisbiy chastotasi wi, i = 1,2,...,k bo‘lsa, nisbiy chastotalar yig‘indisi uchun\n quyidagi tengliklardan qaysi biri o‘rinli?",
+          "question": "Agar tanlanmaning nisbiy chastotasi wi, i = 1,2,...,k bo‘lsa, nisbiy chastotalar yig‘indisi uchun quyidagi tengliklardan qaysi biri o‘rinli?",
           "options": [
             "w + w + ... + w = 1\n            1       2            k",
             "w + w + ... + w = n\n        1       2          k",
             "w + w + ... + w = n + 1\n        1       2           k",
-            "ixtiyoriy qiymat qabul qilishi mumkin / может принимать любое значение"
+            "ixtiyoriy qiymat qabul qilishi mumkin"
           ],
           "correct": [
             0
@@ -310,12 +310,12 @@
         },
         {
           "id": 17,
-          "question": "Если nx - количество вариантов меньше значения x, n - размер выборки, для\n чего служит формула Fn*(x) = nx/n?\n Agar nx - x qiymatdan kichik bo‘lgan variantalar soni; n tanlanmaning hajmi bo‘lsa, ushbu Fn*(x)\n = nx/n tenglik quyidagilardan qaysi birining formulasi?",
+          "question": "Agar nx - x qiymatdan kichik bo‘lgan variantalar soni; n tanlanmaning hajmi bo‘lsa, ushbu Fn*(x) = nx/n tenglik quyidagilardan qaysi birining formulasi?",
           "options": [
-            "Tanlanmaning empirik taqsimot funksiyasi / Эмпирическая функция\n   распределения выборки",
-            "Chastotaning empirik taqsimot funksiyasi / Эмпирическая функция распределения частоты",
-            "Bosh to‘plamning empirik taqsimot funksiyasi / Эмпирическая функция распределения\n   населения",
-            "Tanlanmaning tasodifiy taqsimot funksiyasi / Случайная функция распределения выборки"
+            "Tanlanmaning empirik taqsimot funksiyasi",
+            "Chastotaning empirik taqsimot funksiyasi",
+            "Bosh to‘plamning empirik taqsimot funksiyasi",
+            "Tanlanmaning tasodifiy taqsimot funksiyasi"
           ],
           "correct": [
             0
@@ -329,7 +329,7 @@
         },
         {
           "id": 18,
-          "question": "Если Fn*(x) является эмпирической функцией распределения, какое из\n следующих соотношений верно?\n Fn*(x) empirik taqsimot funksiyasi bo‘lsa, quyidagi munosabatlardan qaysi biri o‘rinli?",
+          "question": "Fn*(x) empirik taqsimot funksiyasi bo‘lsa, quyidagi munosabatlardan qaysi biri o‘rinli?",
           "options": [
             "0 ≤ Fn*(x) ≤ 1",
             "Fn*(x) > 1",
@@ -348,12 +348,12 @@
         },
         {
           "id": 19,
-          "question": "Если Fn*(x) является эмпирической функцией распределения, какое из\n следующих утверждений подходит?\n Fn*(x) empirik taqsimot funksiyasi bo‘lsa, quyidagi mulohazalardan qaysi biri o‘rinli?",
+          "question": "Fn*(x) empirik taqsimot funksiyasi bo‘lsa, quyidagi mulohazalardan qaysi biri o‘rinli?",
           "options": [
-            "kamaymaydigan funksiya / неубывающая функция",
-            "kamayuvchi funksiya / убывающая функция",
-            "o‘smaydigan funksiya / невозрастающая функция",
-            "qat’iy o‘suvchi funksiya / строго возрастающая функция"
+            "kamaymaydigan funksiya",
+            "kamayuvchi funksiya",
+            "o‘smaydigan funksiya",
+            "qat’iy o‘suvchi funksiya"
           ],
           "correct": [
             0
@@ -367,12 +367,12 @@
         },
         {
           "id": 20,
-          "question": "Для эмпирической функции распределения Fn*(x), если x1 - наименьшая\n варианта, а xk - наибольшая, какое соотношение справедливо?\n Fn*(x) empirik taqsimot funksiyasi uchun agar x1 - eng kichik varianta va xk - eng katta variant\n bo‘lsa, u holda quyidagi munosabatlar o‘rinli bo‘ladi?",
+          "question": "Fn*(x) empirik taqsimot funksiyasi uchun agar x1 - eng kichik varianta va xk - eng katta variant bo‘lsa, u holda quyidagi munosabatlar o‘rinli bo‘ladi?",
           "options": [
-            "Fn*(x) = 0, agar x ≤ x1 bo‘lsa / Fn*(x) = 0, если x ≤ x1",
-            "Fn*(x) = 0, agar x > x1 bo‘lsa / Fn*(x) = 0, если x > x1",
-            "Fn*(x) = 0, agar x > xk bo‘lsa / Fn*(x) = 0, если x > xk",
-            "Fn*(x) = 1, agar x ≤ xk bo‘lsa / Fn*(x) = 1, если x ≤ xk"
+            "Fn*(x) = 0, agar x ≤ x1 bo‘lsa",
+            "Fn*(x) = 0, agar x > x1 bo‘lsa",
+            "Fn*(x) = 0, agar x > xk bo‘lsa",
+            "Fn*(x) = 1, agar x ≤ xk bo‘lsa"
           ],
           "correct": [
             0
@@ -386,12 +386,12 @@
         },
         {
           "id": 21,
-          "question": "Для эмпирической функции распределения Fn*(x), если x1 - наименьшая\n варианта, а xk - наибольшая, какое соотношение справедливо?\n Fn*(x) empirik taqsimot funksiyasi uchun agar x1 - eng kichik varianta va xk - eng katta variant\n bo‘lsa, u holda quyidagi munosabatlar o‘rinli bo‘ladi?",
+          "question": "Fn*(x) empirik taqsimot funksiyasi uchun agar x1 - eng kichik varianta va xk - eng katta variant bo‘lsa, u holda quyidagi munosabatlar o‘rinli bo‘ladi?",
           "options": [
-            "Fn*(x) = 1, agar x > xk bo‘lsa / Fn*(x) = 1, если x > xk",
-            "Fn*(x) = 0, agar x > x1 bo‘lsa / Fn*(x) = 0, если x > x1",
-            "Fn*(x) = 0, agar x > xk bo‘lsa / Fn*(x) = 0, если x > xk",
-            "Fn*(x) = 1, agar x ≤ xk bo‘lsa / Fn*(x) = 1, если x ≤ xk"
+            "Fn*(x) = 1, agar x > xk bo‘lsa",
+            "Fn*(x) = 0, agar x > x1 bo‘lsa",
+            "Fn*(x) = 0, agar x > xk bo‘lsa",
+            "Fn*(x) = 1, agar x ≤ xk bo‘lsa"
           ],
           "correct": [
             0
@@ -405,12 +405,12 @@
         },
         {
           "id": 22,
-          "question": "Как называется ломаная линия, соединяющая точки (x1, n1), (x2, n2), ..., (xk, nk)?\n (x1, n1), (x2, n2), ..., (xk, nk) nuqtalarni birlashtiruvchi siniq chiziqqa nima deyiladi?",
+          "question": "(x1, n1), (x2, n2), ..., (xk, nk) nuqtalarni birlashtiruvchi siniq chiziqqa nima deyiladi?",
           "options": [
-            "chastotalar Poligoni / Полигон частот",
-            "nisbiy chastotalar Poligoni / Полигон относительных частот",
-            "chastotalar gistogrammasi / гистограмма частот",
-            "nisbiy chastotalar gistogrammasi / гистограмма относительных частот"
+            "chastotalar Poligoni",
+            "nisbiy chastotalar Poligoni",
+            "chastotalar gistogrammasi",
+            "nisbiy chastotalar gistogrammasi"
           ],
           "correct": [
             0
@@ -424,12 +424,12 @@
         },
         {
           "id": 23,
-          "question": "Как называется ломаная линия, соединяющая точки (x1, w1), (x2, w2), ..., (xk,\n wk)?\n (x1, w1), (x2, w2), ..., (xk, wk) nuqtalarni birlashtiruvchi siniq chiziqqa nima deyiladi?",
+          "question": "(x1, w1), (x2, w2), ..., (xk, wk) nuqtalarni birlashtiruvchi siniq chiziqqa nima deyiladi?",
           "options": [
-            "nisbiy chastotalar Poligoni / Полигон относительных частот",
-            "chastotalar Poligoni / Полигон частот",
-            "chastotalar gistogrammasi / гистограмма частот",
-            "nisbiy chastotalar gistogrammasi / гистограмма относительных частот"
+            "nisbiy chastotalar Poligoni",
+            "chastotalar Poligoni",
+            "chastotalar gistogrammasi",
+            "nisbiy chastotalar gistogrammasi"
           ],
           "correct": [
             0
@@ -443,12 +443,12 @@
         },
         {
           "id": 24,
-          "question": "Как называется фигура, состоящая из прямоугольников, основание которых\n равно h, а высота ni/h - плотность частоты?\n Asoslari h bo‘lib balandligi ni/h - chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan\n iborat figura nima deyiladi?",
+          "question": "Asoslari h bo‘lib balandligi ni/h - chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan iborat figura nima deyiladi?",
           "options": [
-            "chastotalar gistogrammasi / гистограмма частот",
-            "nisbiy chastotalar Poligoni / Полигон относительных частот",
-            "chastotalar Poligoni / Полигон частот",
-            "nisbiy chastotalar gistogrammasi / гистограмма относительных частот"
+            "chastotalar gistogrammasi",
+            "nisbiy chastotalar Poligoni",
+            "chastotalar Poligoni",
+            "nisbiy chastotalar gistogrammasi"
           ],
           "correct": [
             0
@@ -462,12 +462,12 @@
         },
         {
           "id": 25,
-          "question": "Как называется фигура, состоящая из прямоугольников, основание которых\n равно h, а высота wi/h представляет собой плотность частоты?\n Asoslari h bo‘lib balandligi wi/h - chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan\n iborat figura nima deyiladi?",
+          "question": "Asoslari h bo‘lib balandligi wi/h - chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan iborat figura nima deyiladi?",
           "options": [
-            "nisbiy chastotalar gistogrammasi / гистограмма относительных частот",
-            "nisbiy chastotalar Poligoni / Полигон относительных частот",
-            "chastotalar Poligoni / Полигон частот",
-            "chastotalar gistogrammasi / гистограмма частот"
+            "nisbiy chastotalar gistogrammasi",
+            "nisbiy chastotalar Poligoni",
+            "chastotalar Poligoni",
+            "chastotalar gistogrammasi"
           ],
           "correct": [
             0
@@ -481,12 +481,12 @@
         },
         {
           "id": 26,
-          "question": "Как называется среднее арифметическое возможных значений Y, когда\n составляющая X принимает число x (X = x)?\n Tashkil etuvchi X biror x soni qabul qilganda (X = x), Y ning qabul qilishi mumkin bo‘lgan\n qiymatlarining o‘rta arifmetik qiymatiga qanday o‘rta deyiladi?",
+          "question": "Tashkil etuvchi X biror x soni qabul qilganda (X = x), Y ning qabul qilishi mumkin bo‘lgan qiymatlarining o‘rta arifmetik qiymatiga qanday o‘rta deyiladi?",
           "options": [
-            "shartli / условное",
-            "funksional / функциональное",
-            "matematik / математическое",
-            "geometrik / геометрическое"
+            "shartli",
+            "funksional",
+            "matematik",
+            "geometrik"
           ],
           "correct": [
             0
@@ -500,7 +500,7 @@
         },
         {
           "id": 27,
-          "question": "Если xi (i = 1,...,k) - варианты выборки, ni (i = 1,...,k) - частоты, ломаная линия,\n соединяющая точки ..., называется полигоном частот. Заполните место\n многоточия.\n Agar xi (i = 1,...,k) tanlanma varianti, ni (i = 1,...,k) tanlanma variantining chastotasi bo‘lsa, ...\n nuqtalarni birlashtiruvchi siniq chiziqqa chastotalar Poligoni deyiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Agar xi (i = 1,...,k) tanlanma varianti, ni (i = 1,...,k) tanlanma variantining chastotasi bo‘lsa, ... nuqtalarni birlashtiruvchi siniq chiziqqa chastotalar Poligoni deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
             "(x , n ), (x , n ), ..., (x , n )\n             1   1       2   2            k   k",
             "(x , n ), (x , n )\n        1    1       2   3",
@@ -519,7 +519,7 @@
         },
         {
           "id": 28,
-          "question": "Если xi (i = 1,...,k) - варианты выборки, wi (i = 1,...,k) - относительные частоты,\n ломаная линия, соединяющая точки ..., называется полигоном относительных\n частот. Заполните место многоточия.\n Agar xi (i = 1,...,k) tanlanma varianti, wi (i = 1,...,k) tanlanma variantining nisbiy chastotasi\n bo‘lsa, ... nuqtalarni birlashtiruvchi siniq chiziqqa nisbiy chastotalar Poligoni deyiladi. Nuqtalar\n o‘rnini to‘ldiring.",
+          "question": "Agar xi (i = 1,...,k) tanlanma varianti, wi (i = 1,...,k) tanlanma variantining nisbiy chastotasi bo‘lsa, ... nuqtalarni birlashtiruvchi siniq chiziqqa nisbiy chastotalar Poligoni deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
             "(x1, w1), (x2, w2), ..., (xk, wk)",
             "(x1, w1), (x2, w3)",
@@ -538,7 +538,7 @@
         },
         {
           "id": 29,
-          "question": "Фигура, состоящая из прямоугольников, основания которых равны h, а высота ...\n - плотность частот, называется гистограммой частот. Заполните место\n многоточия.\n Asoslari h bo‘lib balandligi ... chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan\n iborat figura chastotalar gistogrammasi deyiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Asoslari h bo‘lib balandligi ... chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan iborat figura chastotalar gistogrammasi deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
             "ni/h",
             "pi/h",
@@ -557,7 +557,7 @@
         },
         {
           "id": 30,
-          "question": "Фигура состоит из прямоугольников, основания которых равны h, а высота ... -\n плотность частот. Заполните место многоточия.\n Asoslari h bo‘lib balandligi ... chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan\n iborat figura nima deyiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Asoslari h bo‘lib balandligi ... chastotalar zichligidan iborat bo‘lgan to‘g‘ri to‘rtburchaklardan iborat figura nima deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
             "w /h\n                i",
             "n /h\n        i",
@@ -576,12 +576,12 @@
         },
         {
           "id": 31,
-          "question": "Среднее арифметическое всех значений выборки называется... Заполните место\n многоточия.\n Tanlanmaning barcha qiymatlarining o‘rta arifmetigi ... deyiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Tanlanmaning barcha qiymatlarining o‘rta arifmetigi ... deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "tanlanma o‘rtacha qiymat / выборочное среднее",
-            "tanlanma chastotasi / частота выборки",
-            "tanlanma hajmi / объём выборки",
-            "tanlanma umumiy yig‘indisi / общее количество выборки"
+            "tanlanma o‘rtacha qiymat",
+            "tanlanma chastotasi",
+            "tanlanma hajmi",
+            "tanlanma umumiy yig‘indisi"
           ],
           "correct": [
             0
@@ -595,7 +595,7 @@
         },
         {
           "id": 32,
-          "question": "Если DT - выборочная дисперсия, каким из следующих уравнений она\n определяется?\n Agar DT tanlanma dispersiyasi bo‘lsa, u quyidagi tengliklardan qaysi bilan aniqlanadi?",
+          "question": "Agar DT tanlanma dispersiyasi bo‘lsa, u quyidagi tengliklardan qaysi bilan aniqlanadi?",
           "options": [
             "DT = (1/n) Σi=1k (xi - x̄)² · ni",
             "DT = (1/n²) Σi=1k (xi - x̄)² · ni",
@@ -614,7 +614,7 @@
         },
         {
           "id": 33,
-          "question": "Если DT - выборочная дисперсия, каким уравнением определяется выборочное\n среднеквадратическое отклонение?\n Agar DT tanlanma dispersiyasi bo‘lsa, tanlanma o‘rtacha kvadratik chetlanish quyidagi\n tengliklardan qaysi bilan aniqlanadi?",
+          "question": "Agar DT tanlanma dispersiyasi bo‘lsa, tanlanma o‘rtacha kvadratik chetlanish quyidagi tengliklardan qaysi bilan aniqlanadi?",
           "options": [
             "σ = √(DT)",
             "σ = DT",
@@ -633,12 +633,12 @@
         },
         {
           "id": 34,
-          "question": "Уравнение σ(X) = √(D(X)) представляет собой формулу ... отклонения выборки\n X. Заполните место многоточия.\n σ(X) = √(D(X)) tenglik X tasodifiy tanlanmaning ... chetlanishi formulasi. Nuqtalar o‘rnini\n to‘ldiring.",
+          "question": "σ(X) = √(D(X)) tenglik X tasodifiy tanlanmaning ... chetlanishi formulasi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "o‘rtacha kvadratik / среднеквадратическое",
-            "kichik kvadratik / наименьший квадрат",
-            "o‘rta kubik / средний кубический",
-            "o‘rtacha darajali / средний балл"
+            "o‘rtacha kvadratik",
+            "kichik kvadratik",
+            "o‘rta kubik",
+            "o‘rtacha darajali"
           ],
           "correct": [
             0
@@ -652,12 +652,12 @@
         },
         {
           "id": 35,
-          "question": "Если DT является выборочной дисперсией, что определяется уравнением S² =\n [n/(n - 1)] DT?\n Agar DT tanlanma dispersiyasi bo‘lsa, S² = [n/(n - 1)] DT tenglik orqali quyidagilardan qaysi biri\n aniqlanadi?",
+          "question": "Agar DT tanlanma dispersiyasi bo‘lsa, S² = [n/(n - 1)] DT tenglik orqali quyidagilardan qaysi biri aniqlanadi?",
           "options": [
-            "tuzatilgan tanlanma dispersiyasi / исправленная выборочная дисперсия",
-            "tanlanma dispersiyasi / дисперсия выборки",
-            "tuzatilmagan tanlanma dispersiyasi / неисправленная выборочная дисперсия",
-            "o‘rtacha kvadratik chetlanish / среднее квадратическое отклонение"
+            "tuzatilgan tanlanma dispersiyasi",
+            "tanlanma dispersiyasi",
+            "tuzatilmagan tanlanma dispersiyasi",
+            "o‘rtacha kvadratik chetlanish"
           ],
           "correct": [
             0
@@ -671,12 +671,12 @@
         },
         {
           "id": 36,
-          "question": "Если S² - исправленная выборочная дисперсия, величина S = √(S²) называется...\n Заполните место многоточия.\n Agar S² tuzatilgan tanlanma dispersiyasi bo‘lsa, S = √(S²) kattalik ... deb ataladi. Nuqtalar o‘rnini\n to‘ldiring.",
+          "question": "Agar S² tuzatilgan tanlanma dispersiyasi bo‘lsa, S = √(S²) kattalik ... deb ataladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "tuzatilgan o‘rtacha kvadratik chetlanish / исправленное среднеквадратическое\n   отклонение",
-            "tanlanma dispersiyasi / дисперсия выборки",
-            "tuzatilmagan tanlanma dispersiyasi / неисправленная выборочная дисперсия",
-            "tanlanmaning o‘rtacha kvadratik chetlanishi / среднеквадратическое отклонение выборки"
+            "tuzatilgan o‘rtacha kvadratik chetlanish",
+            "tanlanma dispersiyasi",
+            "tuzatilmagan tanlanma dispersiyasi",
+            "tanlanmaning o‘rtacha kvadratik chetlanishi"
           ],
           "correct": [
             0
@@ -690,12 +690,12 @@
         },
         {
           "id": 37,
-          "question": "Если L - оценка и для любого ε > 0 выполняется limn→∞ P(|L - θ| ≤ ε) = 1, то\n оценка L называется ... для параметра θ. Заполните место многоточия.\n Agar L baho va har qanday ε > 0 uchun limn→∞ P(|L - θ| ≤ ε) = 1 munosabat bajarilsa, L baho θ\n parametr uchun ... deyiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Agar L baho va har qanday ε > 0 uchun limn→∞ P(|L - θ| ≤ ε) = 1 munosabat bajarilsa, L baho θ parametr uchun ... deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "asosli baho / обоснованная оценка",
-            "aniq baho / точная оценка",
-            "siljigan baho / несмещённая оценка",
-            "samarali baho / эффективная оценка"
+            "asosli baho",
+            "aniq baho",
+            "siljigan baho",
+            "samarali baho"
           ],
           "correct": [
             0
@@ -709,12 +709,12 @@
         },
         {
           "id": 38,
-          "question": "Если для оценки L выполнено условие ML(x1, x2, ..., xn) = θ, то оценка L для\n параметра θ называется... Заполните место многоточия.\n Agar L baho uchun ML(x1, x2, ..., xn) = θ shart bajarilsa, L baho θ parametr uchun ... deyiladi.\n Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Agar L baho uchun ML(x1, x2, ..., xn) = θ shart bajarilsa, L baho θ parametr uchun ... deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "siljimagan baho / фиксированная оценка",
-            "siljigan baho / изменённая оценка",
-            "samarali baho / эффективная оценка",
-            "asosli baho / обоснованная оценка"
+            "siljimagan baho",
+            "siljigan baho",
+            "samarali baho",
+            "asosli baho"
           ],
           "correct": [
             0
@@ -728,12 +728,12 @@
         },
         {
           "id": 39,
-          "question": "Если даны L1 и L2 - фиксированные оценки параметра θ и D(L1) < D(L2), то\n оценка L1 по сравнению с оценкой L2... Заполните место многоточия.\n Agar θ parametrning L1 va L2 siljimagan baholari berilgan bo‘lib, D(L1) < D(L2) bo‘lsa, L1 baho L2\n bahoga nisbatan ... deyiladi.",
+          "question": "Agar θ parametrning L1 va L2 siljimagan baholari berilgan bo‘lib, D(L1) < D(L2) bo‘lsa, L1 baho L2 bahoga nisbatan ... deyiladi.",
           "options": [
-            "samarali baho / эффективная оценка",
-            "siljimagan baho / фиксированная оценка",
-            "asosli baho / обоснованная оценка",
-            "aniq baho / точная оценка"
+            "samarali baho",
+            "siljimagan baho",
+            "asosli baho",
+            "aniq baho"
           ],
           "correct": [
             0
@@ -747,12 +747,12 @@
         },
         {
           "id": 40,
-          "question": "Какой оценкой будет x̄T - выборочное среднее для среднего значения\n генеральной совокупности?\n x̄T - tanlanma o‘rtacha bosh to‘plam o‘rta qiymati uchun qanday baho bo‘ladi?",
+          "question": "x̄T - tanlanma o‘rtacha bosh to‘plam o‘rta qiymati uchun qanday baho bo‘ladi?",
           "options": [
-            "siljimagan, asosli va samarali / фиксированная, обоснованная и эффективная",
-            "faqat samarali / только эффективная",
-            "faqat siljimagan / только фиксированная",
-            "faqat asosli / только обоснованная"
+            "siljimagan, asosli va samarali",
+            "faqat samarali",
+            "faqat siljimagan",
+            "faqat asosli"
           ],
           "correct": [
             0
@@ -766,12 +766,12 @@
         },
         {
           "id": 41,
-          "question": "Какова оценка DT - выборочной дисперсии - для генеральной дисперсии?\n DT - tanlanma dispersiya bosh to‘plam dispersiyasi uchun qanday baho bo‘ladi?",
+          "question": "DT - tanlanma dispersiya bosh to‘plam dispersiyasi uchun qanday baho bo‘ladi?",
           "options": [
-            "asosli / обоснованная",
-            "siljimagan / фиксированная",
-            "samarali / эффективная",
-            "befoyda / бесполезная"
+            "asosli",
+            "siljimagan",
+            "samarali",
+            "befoyda"
           ],
           "correct": [
             0
@@ -785,12 +785,12 @@
         },
         {
           "id": 42,
-          "question": "S = [n/(n - 1)] DT - какова оценка дисперсии генеральной совокупности?\n S = [n/(n - 1)] D - bosh to‘plam dispersiyasi uchun qanday baho bo‘ladi?\n                     T",
+          "question": "S = [n/(n - 1)] D - bosh to‘plam dispersiyasi uchun qanday baho bo‘ladi? T",
           "options": [
-            "siljimagan va asosli / фиксированная, обоснованная",
-            "faqat samarali / только эффективная",
-            "faqat siljimagan / только фиксированная",
-            "faqat asosli / только обоснованная"
+            "siljimagan va asosli",
+            "faqat samarali",
+            "faqat siljimagan",
+            "faqat asosli"
           ],
           "correct": [
             0
@@ -804,7 +804,7 @@
         },
         {
           "id": 43,
-          "question": "Найдите формулу выборочного коэффициента корреляции.\n Tanlanmaning korrelyatsiya koeffitsienti formulasini toping.",
+          "question": "Tanlanmaning korrelyatsiya koeffitsienti formulasini toping.",
           "options": [
             "rT = (Σ nxy · x · y - n · x̄ · ȳ)/(n · σ̃x · σ̃y)",
             "rT = (Σ nxy · x · y - n · x̄ · ȳ)/(n · σ̃y)",
@@ -823,12 +823,12 @@
         },
         {
           "id": 44,
-          "question": "rT = (Σ nxy · x · y - n · x̄ · ȳ)/(n · σ̃x · σ̃y) - формула коэффициента... Заполните\n место многоточия.\n rT = (Σ nxy · x · y - n · x̄ · ȳ)/(n · σ̃x · σ̃y) tanlanmaning ... koeffitsienti formulasi. Nuqtalar o‘rnini\n to‘ldiring.",
+          "question": "rT = (Σ nxy · x · y - n · x̄ · ȳ)/(n · σ̃x · σ̃y) tanlanmaning ... koeffitsienti formulasi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "korrelyatsiya / корреляции",
-            "regressiya / регрессии",
-            "birinchi / первого",
-            "darajali / степенного"
+            "korrelyatsiya",
+            "regressiya",
+            "birinchi",
+            "darajali"
           ],
           "correct": [
             0
@@ -842,7 +842,7 @@
         },
         {
           "id": 45,
-          "question": "Если факторы X и Y слабо связаны, в каком диапазоне меняется коэффициент\n корреляции rxy?\n Agar X va Y omillari kuchsiz zich bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti rxy quyidagi qaysi\n oraliqda o‘zgaradi?",
+          "question": "Agar X va Y omillari kuchsiz zich bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti rxy quyidagi qaysi oraliqda o‘zgaradi?",
           "options": [
             "0 ≤ r         ≤ 0,2\n                 xy",
             "0,6 < r        ≤ 0,96\n               xy",
@@ -861,7 +861,7 @@
         },
         {
           "id": 46,
-          "question": "Если факторы X и Y связаны менее сильно, чем в среднем, в каком диапазоне\n меняется коэффициент корреляции rxy?\n Agar X va Y omillari o‘rtacha zichlikdan kuchsizroq bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti\n rxy quyidagi qaysi oraliqda o‘zgaradi?",
+          "question": "Agar X va Y omillari o‘rtacha zichlikdan kuchsizroq bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti rxy quyidagi qaysi oraliqda o‘zgaradi?",
           "options": [
             "0,2 ≤ rxy ≤ 0,4",
             "0,6 < rxy ≤ 0,96",
@@ -880,7 +880,7 @@
         },
         {
           "id": 47,
-          "question": "Если факторы X и Y умеренно сильно связаны, в каком диапазоне меняется\n коэффициент корреляции rxy?\n Agar X va Y omillari o‘rtacha zich bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti rxy quyidagi qaysi\n oraliqda o‘zgaradi?",
+          "question": "Agar X va Y omillari o‘rtacha zich bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti rxy quyidagi qaysi oraliqda o‘zgaradi?",
           "options": [
             "0,4 ≤ rxy ≤ 0,6",
             "0,6 < rxy ≤ 0,96",
@@ -899,7 +899,7 @@
         },
         {
           "id": 48,
-          "question": "Если факторы X и Y связаны более тесно, чем в среднем, в каком диапазоне\n меняется коэффициент корреляции rxy?\n Agar X va Y omillari o‘rtachadan zichroq bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti rxy\n quyidagi qaysi oraliqda o‘zgaradi?",
+          "question": "Agar X va Y omillari o‘rtachadan zichroq bog‘langan bo‘lsa, korrelyatsiya koeffitsiyenti rxy quyidagi qaysi oraliqda o‘zgaradi?",
           "options": [
             "0,6 ≤ r           ≤ 0,8\n                     xy",
             "0,6 < r        ≤ 0,96\n               xy",
@@ -918,12 +918,12 @@
         },
         {
           "id": 49,
-          "question": "Слово «корреляция» означает...\n Korrelyatsiya so‘zi ... degan ma’noga ega.",
+          "question": "Korrelyatsiya so‘zi ... degan ma’noga ega.",
           "options": [
-            "o‘zaro munosabat, muvofiqlik, bog‘liqlik / взаимность, соответствие,\n   зависимость",
-            "nomuvofiqlik / непоследовательность",
-            "bog‘liqsizlik / независимость",
-            "bir xillik / единообразие"
+            "o‘zaro munosabat, muvofiqlik, bog‘liqlik",
+            "nomuvofiqlik",
+            "bog‘liqsizlik",
+            "bir xillik"
           ],
           "correct": [
             0
@@ -937,12 +937,12 @@
         },
         {
           "id": 50,
-          "question": "Какие существуют типы коэффициентов корреляции?\n Korrelyatsiya koeffitsientlari qanday turlarda bo‘ladi?",
+          "question": "Korrelyatsiya koeffitsientlari qanday turlarda bo‘ladi?",
           "options": [
-            "Juft, xususiy va ko‘plikdagi / Парное, частное и множественное",
-            "Juft, ko‘plikdagi, doimiy / Чётное, множественное, непрерывное",
-            "Xususiy, ko‘plikdagi, o‘zgaruvchan / Конкретное, множественное, переменное",
-            "Ko‘plikdagi, doimiy, multikollinear / Множественное, непрерывное, мультиколлинеарное"
+            "Juft, xususiy va ko‘plikdagi",
+            "Juft, ko‘plikdagi, doimiy",
+            "Xususiy, ko‘plikdagi, o‘zgaruvchan",
+            "Ko‘plikdagi, doimiy, multikollinear"
           ],
           "correct": [
             0
@@ -956,12 +956,12 @@
         },
         {
           "id": 51,
-          "question": "Корреляционное поле - это...\n Korrelyatsiya maydoni bu ...",
+          "question": "Korrelyatsiya maydoni bu ...",
           "options": [
-            "nuqtalar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi,\n   mazkur nuqtaning koordinatalari esa X va Y o‘zgaruvchilarining mos keluvchi\n   qiymatlari bilan aniqlanadi / поле точек, в котором каждая точка соответствует\n   заданной единице, а координаты этой точки определяются соответствующими\n   значениями переменных X и Y",
-            "to‘g‘ri chiziqlar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi / поле\n   прямых, в котором каждая точка соответствует единице множества",
-            "egri chiziqlar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi / поле кривых,\n   в котором каждая точка соответствует единице множества",
-            "siniq chiziqlar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi / поле\n   пунктирных линий, каждая точка в котором соответствует заданной единице измерения"
+            "nuqtalar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi,\n   mazkur nuqtaning koordinatalari esa X va Y o‘zgaruvchilarining mos keluvchi\n   qiymatlari bilan aniqlanadi",
+            "to‘g‘ri chiziqlar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi",
+            "egri chiziqlar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi",
+            "siniq chiziqlar maydoni bo‘lib, undagi har bir nuqta to‘plam birligiga mos keladi"
           ],
           "correct": [
             0
@@ -975,12 +975,12 @@
         },
         {
           "id": 52,
-          "question": "Корреляция - это...\n Korrelyatsiya - bu ...",
+          "question": "Korrelyatsiya - bu ...",
           "options": [
-            "omillar orasidagi bog‘lanish zichligi / плотность связи между факторами",
-            "normal tenglamalar tizimi / система нормальных уравнений",
-            "omillarning koordinata o‘qidan uzoqlashishi / отклонение коэффициентов от оси координат",
-            "model ishonchliligi / надёжность модели"
+            "omillar orasidagi bog‘lanish zichligi",
+            "normal tenglamalar tizimi",
+            "omillarning koordinata o‘qidan uzoqlashishi",
+            "model ishonchliligi"
           ],
           "correct": [
             0
@@ -994,7 +994,7 @@
         },
         {
           "id": 53,
-          "question": "Покажите выражение, определяющее коэффициент корреляции.\n Korrelyatsiya koeffitsiyentini aniqlovchi bandni ko‘rsating.",
+          "question": "Korrelyatsiya koeffitsiyentini aniqlovchi bandni ko‘rsating.",
           "options": [
             "rxy = (⟨xy⟩ - x̄ · ȳ)/(σx · σy)",
             "rxy = (⟨xy⟩ - x̄ · ȳ)/(σx - σy)",
@@ -1013,12 +1013,12 @@
         },
         {
           "id": 54,
-          "question": "По типу корреляционной связи:\n Korrelyatsion bog‘lanish turi bo‘yicha:",
+          "question": "Korrelyatsion bog‘lanish turi bo‘yicha:",
           "options": [
-            "to‘g‘ri, teskari bo‘ladi / прямая, обратная связь",
-            "to‘g‘ri chiziqli, egri chiziqli bo‘ladi / прямая линия, изогнутая линия",
-            "kuchsiz, o‘rtacha, zich bo‘ladi / слабая, умеренная, плотная",
-            "juft, ko‘p omilli bo‘ladi / чётная, многофакторная"
+            "to‘g‘ri, teskari bo‘ladi",
+            "to‘g‘ri chiziqli, egri chiziqli bo‘ladi",
+            "kuchsiz, o‘rtacha, zich bo‘ladi",
+            "juft, ko‘p omilli bo‘ladi"
           ],
           "correct": [
             0
@@ -1032,12 +1032,12 @@
         },
         {
           "id": 55,
-          "question": "По форме корреляционной связи:\n Korrelyatsion bog‘lanish shakli bo‘yicha:",
+          "question": "Korrelyatsion bog‘lanish shakli bo‘yicha:",
           "options": [
-            "to‘g‘ri chiziqli, egri chiziqli bo‘ladi / прямая, изогнутая",
-            "to‘g‘ri, teskari bo‘ladi / прямая связь, обратная связь",
-            "kuchsiz, o‘rtacha, zich bo‘ladi / слабая, умеренная, плотная",
-            "juft, ko‘p omilli bo‘ladi / чётная, многофакторная"
+            "to‘g‘ri chiziqli, egri chiziqli bo‘ladi",
+            "to‘g‘ri, teskari bo‘ladi",
+            "kuchsiz, o‘rtacha, zich bo‘ladi",
+            "juft, ko‘p omilli bo‘ladi"
           ],
           "correct": [
             0
@@ -1051,12 +1051,12 @@
         },
         {
           "id": 56,
-          "question": "По количеству коэффициентов корреляции:\n Korrelyatsion bog‘lanish omillar soni bo‘yicha:",
+          "question": "Korrelyatsion bog‘lanish omillar soni bo‘yicha:",
           "options": [
-            "juft, ko‘p omilli bo‘ladi / чётная, многофакторная",
-            "to‘g‘ri chiziqli, egri chiziqli bo‘ladi / прямая линия, изогнутая линия",
-            "kuchsiz, o‘rtacha, zich bo‘ladi / слабая, умеренная, плотная",
-            "to‘g‘ri, teskari bo‘ladi / прямая связь, обратная связь"
+            "juft, ko‘p omilli bo‘ladi",
+            "to‘g‘ri chiziqli, egri chiziqli bo‘ladi",
+            "kuchsiz, o‘rtacha, zich bo‘ladi",
+            "to‘g‘ri, teskari bo‘ladi"
           ],
           "correct": [
             0
@@ -1070,7 +1070,7 @@
         },
         {
           "id": 57,
-          "question": "Коэффициент корреляции варьируется в следующем диапазоне:\n Korrelyatsiya koeffitsiyenti quyidagi oraliqda o‘zgaradi:",
+          "question": "Korrelyatsiya koeffitsiyenti quyidagi oraliqda o‘zgaradi:",
           "options": [
             "-1 ≤ rxy ≤ 1",
             "0 < rxy < 1",
@@ -1089,7 +1089,7 @@
         },
         {
           "id": 58,
-          "question": "Между факторами существует прямая связь, если:\n Omillar o‘rtasida to‘g‘ri bog‘lanish mavjud - agar:",
+          "question": "Omillar o‘rtasida to‘g‘ri bog‘lanish mavjud - agar:",
           "options": [
             "0 < r < 1",
             "r = 1,2",
@@ -1108,7 +1108,7 @@
         },
         {
           "id": 59,
-          "question": "Между факторами существует обратная зависимость, если:\n Omillar o‘rtasida teskari bog‘lanish mavjud - agar:",
+          "question": "Omillar o‘rtasida teskari bog‘lanish mavjud - agar:",
           "options": [
             "-1 < r < 0",
             "0 < r < 1",
@@ -1127,7 +1127,7 @@
         },
         {
           "id": 60,
-          "question": "Какая из этих функций является линейной?\n Ushbu funksiyalardan qaysi biri chiziqli funksiya?",
+          "question": "Ushbu funksiyalardan qaysi biri chiziqli funksiya?",
           "options": [
             "y = ax + b",
             "y = ax² + b",
@@ -1146,12 +1146,12 @@
         },
         {
           "id": 61,
-          "question": "Прогнозирование экономических процессов - это... Заполните место многоточия.\n Iqtisodiy jarayonlarini prognozlash - bu ... . Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Iqtisodiy jarayonlarini prognozlash - bu ... . Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "ko‘rsatkichlarning istiqboldagi holatini aniqlash / определение будущего\n   состояния показателей",
-            "bir-birlik mahsulot ishlab chiqarishga ketadigan o‘rtacha xarajatlarni aniqlash / определение\n   средних затрат на производство одной единицы продукции",
-            "foyda darajasini maksimallashtirish / максимизация прибыли",
-            "reja ko‘rsatkichlarini haqiqiy ko‘rsatkichlar bilan taqqoslash / сравнение плановых\n   показателей с фактическими показателями"
+            "ko‘rsatkichlarning istiqboldagi holatini aniqlash",
+            "bir-birlik mahsulot ishlab chiqarishga ketadigan o‘rtacha xarajatlarni aniqlash",
+            "foyda darajasini maksimallashtirish",
+            "reja ko‘rsatkichlarini haqiqiy ko‘rsatkichlar bilan taqqoslash"
           ],
           "correct": [
             0
@@ -1165,12 +1165,12 @@
         },
         {
           "id": 62,
-          "question": "Yx = a0 + a1 x1 - это... Заполните место многоточия.\n Yx = a0 + a1 x1 - bu ... . Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Yx = a0 + a1 x1 - bu ... . Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "bir omilli chiziqli bog‘lanish / однофакторная линейная регрессия",
-            "bir omilli chiziqsiz bog‘lanish / однофакторная нелинейная регрессия",
-            "ko‘p omilli chiziqli bog‘lanish / многофакторная линейная регрессия",
-            "ko‘p omilli chiziqsiz bog‘lanish / многофакторная нелинейная регрессия"
+            "bir omilli chiziqli bog‘lanish",
+            "bir omilli chiziqsiz bog‘lanish",
+            "ko‘p omilli chiziqli bog‘lanish",
+            "ko‘p omilli chiziqsiz bog‘lanish"
           ],
           "correct": [
             0
@@ -1184,12 +1184,12 @@
         },
         {
           "id": 63,
-          "question": "Регрессия называется парной... Заполните место многоточия.\n Regressiya juft deb ataladi, ... . Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Regressiya juft deb ataladi, ... . Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "agar bog‘lanish funksiyasi bitta o‘zgaruvchidan iborat bo‘lsa / если функция\n   привязки состоит из одной переменной",
-            "agar bog‘lanish funksiyasi bir necha o‘zgaruvchilardan iborat bo‘lsa / если функция связи\n   состоит из нескольких переменных",
-            "agar bog‘lanish funksiyasi o‘zgarmas miqdordan iborat bo‘lsa / если функция связи состоит\n   из постоянной величины",
-            "istalgan regressiya juft bo‘ladi / любая регрессия парная"
+            "agar bog‘lanish funksiyasi bitta o‘zgaruvchidan iborat bo‘lsa",
+            "agar bog‘lanish funksiyasi bir necha o‘zgaruvchilardan iborat bo‘lsa",
+            "agar bog‘lanish funksiyasi o‘zgarmas miqdordan iborat bo‘lsa",
+            "istalgan regressiya juft bo‘ladi"
           ],
           "correct": [
             0
@@ -1203,12 +1203,12 @@
         },
         {
           "id": 64,
-          "question": "Связь между двумя событиями или факторами и возникающими при этом\n признаками называется... Заполните место многоточия.\n Ikki hodisa yoki omil va natijaviy belgilar orasidagi bog‘lanish ... deb ataladi. Nuqtalar o‘rnini\n to‘ldiring.",
+          "question": "Ikki hodisa yoki omil va natijaviy belgilar orasidagi bog‘lanish ... deb ataladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "juft korrelyatsiya / парная корреляция",
-            "juft regressiya / парная регрессия",
-            "ikki omilning yig‘indisi / сумма двух факторов",
-            "natijaviy belgilarning bir xilligi / однородность результирующих признаков"
+            "juft korrelyatsiya",
+            "juft regressiya",
+            "ikki omilning yig‘indisi",
+            "natijaviy belgilarning bir xilligi"
           ],
           "correct": [
             0
@@ -1222,7 +1222,7 @@
         },
         {
           "id": 65,
-          "question": "Покажите многофакторную линейную регрессию.\n Ko‘p omilli chiziqli bog‘lanishni ko‘rsating.",
+          "question": "Ko‘p omilli chiziqli bog‘lanishni ko‘rsating.",
           "options": [
             "Yx = a0 + a1 x1 + ... + an xn",
             "Yx = a0 + a1 x1",
@@ -1241,7 +1241,7 @@
         },
         {
           "id": 66,
-          "question": "Покажите обозначение выборочного коэффициента корреляции Y и X.\n X ni Y ga tanlanma korrelyatsiya koeffitsiyenti belgisini ko‘rsating?",
+          "question": "X ni Y ga tanlanma korrelyatsiya koeffitsiyenti belgisini ko‘rsating?",
           "options": [
             "ρxy",
             "ρxy + ρyx",
@@ -1260,12 +1260,12 @@
         },
         {
           "id": 67,
-          "question": "Если среднее значение другой величины изменяется с изменением одной из\n случайных величин в ... связи, такая связь называется корреляционной.\n Заполните место многоточия.\n Agar ... bog‘lanishda tasodifiy miqdorlardan birining o‘zgarishi bilan ikkinchisining o‘rta qiymati\n o‘zgarsa, bunday bog‘lanishga korrelyatsion bog‘lanish deyiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "Agar ... bog‘lanishda tasodifiy miqdorlardan birining o‘zgarishi bilan ikkinchisining o‘rta qiymati o‘zgarsa, bunday bog‘lanishga korrelyatsion bog‘lanish deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "statistik / статистической",
-            "funksional / функциональной",
-            "matematik / математической",
-            "geometrik / геометрической"
+            "statistik",
+            "funksional",
+            "matematik",
+            "geometrik"
           ],
           "correct": [
             0
@@ -1279,12 +1279,12 @@
         },
         {
           "id": 68,
-          "question": "ρxy называется выборочным корреляционным ... X и Y. Заполните место\n многоточия.\n ρxy X ni Y ga tanlanma korrelyatsiya ... deyiladi. Nuqtalar o‘rnini to‘ldiring.",
+          "question": "ρxy X ni Y ga tanlanma korrelyatsiya ... deyiladi. Nuqtalar o‘rnini to‘ldiring.",
           "options": [
-            "koeffitsiyenti / коэффициентом",
-            "yechimi / решением",
-            "darajasi / степенью",
-            "kvadrati / квадратом"
+            "koeffitsiyenti",
+            "yechimi",
+            "darajasi",
+            "kvadrati"
           ],
           "correct": [
             0
@@ -1298,7 +1298,7 @@
         },
         {
           "id": 69,
-          "question": "В каком пункте правильно представлена формула определения коэффициента\n эластичности?\n Qaysi bandda elastiklik koeffitsiyentini aniqlash formulasi to‘g‘ri keltirilgan?",
+          "question": "Qaysi bandda elastiklik koeffitsiyentini aniqlash formulasi to‘g‘ri keltirilgan?",
           "options": [
             "Ei = ai · x̄i/ȳ",
             "Ei = ai/(x̄i · ȳi)",
@@ -1317,12 +1317,12 @@
         },
         {
           "id": 70,
-          "question": "Критерий Фишера указывает:\n Fisher mezoni quyidagini ko‘rsatadi:",
+          "question": "Fisher mezoni quyidagini ko‘rsatadi:",
           "options": [
-            "Olingan modelning o‘rganilayotgan jarayonga mosligini / Совместимость\n   полученной модели с изучаемым процессом",
-            "Omillar orasidagi bog‘lanish zichligini / плотность связей между факторами",
-            "Olingan modeldagi koeffitsiyentlarning ahamiyatliligini / Значимость коэффициентов в\n   полученной модели",
-            "Korrelyatsiya koeffitsiyentining ishonchliligini / Надёжность коэффициента корреляции"
+            "Olingan modelning o‘rganilayotgan jarayonga mosligini",
+            "Omillar orasidagi bog‘lanish zichligini",
+            "Olingan modeldagi koeffitsiyentlarning ahamiyatliligini",
+            "Korrelyatsiya koeffitsiyentining ishonchliligini"
           ],
           "correct": [
             0
@@ -1336,12 +1336,12 @@
         },
         {
           "id": 71,
-          "question": "Что показывает критерий Дарбина-Ватсона?\n Darbin-Uotson mezoni nimani ko‘rsatadi?",
+          "question": "Darbin-Uotson mezoni nimani ko‘rsatadi?",
           "options": [
-            "Natijaviy omil qatorida avtokorrelyatsiya mavjudligini / Наличие\n   автокорреляции в ряду результирующего фактора",
-            "Regressiya tenglamasining real jarayonga mos kelishini / что уравнение регрессии\n   соответствует реальному процессу",
-            "Omillar regression modelga to‘g‘ri kiritilganligini / Факторы правильно включены в\n   регрессионную модель",
-            "Natijaviy omil qatorida avtoregressiyaning mavjudligini / наличие авторегрессии в ряду\n   исходных факторов"
+            "Natijaviy omil qatorida avtokorrelyatsiya mavjudligini",
+            "Regressiya tenglamasining real jarayonga mos kelishini",
+            "Omillar regression modelga to‘g‘ri kiritilganligini",
+            "Natijaviy omil qatorida avtoregressiyaning mavjudligini"
           ],
           "correct": [
             0
@@ -1355,12 +1355,12 @@
         },
         {
           "id": 72,
-          "question": "Какой процесс определяет критерий Стьюдента?\n Styudent mezoni qaysi jarayonni aniqlaydi?",
+          "question": "Styudent mezoni qaysi jarayonni aniqlaydi?",
           "options": [
-            "Olingan modeldagi koeffitsiyentlarning ahamiyatliligini / Значимость\n   коэффициентов в полученной модели",
-            "Korrelyatsiya koeffitsiyentining ishonchliligini / надёжность коэффициента корреляции",
-            "Omillar orasidagi bog‘lanish zichligini / плотность связей между факторами",
-            "Olingan modelning o‘rganilayotgan jarayonga mosligini / Пригодность полученной модели\n   исследуемому процессу"
+            "Olingan modeldagi koeffitsiyentlarning ahamiyatliligini",
+            "Korrelyatsiya koeffitsiyentining ishonchliligini",
+            "Omillar orasidagi bog‘lanish zichligini",
+            "Olingan modelning o‘rganilayotgan jarayonga mosligini"
           ],
           "correct": [
             0
@@ -1374,12 +1374,12 @@
         },
         {
           "id": 73,
-          "question": "Коэффициенты регрессионной модели называются значимыми, если:\n Regressiya modelidagi koeffitsiyentlar ahamiyatli deyiladi, agar:",
+          "question": "Regressiya modelidagi koeffitsiyentlar ahamiyatli deyiladi, agar:",
           "options": [
-            "Styudent mezonining hisoblangan qiymati jadvaldagi qiymatidan katta bo‘lsa /\n   Если расчётное значение критерия Стьюдента больше значения в таблице",
-            "Styudent mezonining hisoblangan qiymati jadvaldagi qiymatidan kichik bo‘lsa / Если\n   рассчитанное значение критерия Стьюдента меньше значения в таблице",
-            "Styudent mezonining hisoblangan qiymati jadvaldagi qiymatiga teng bo‘lsa / Если\n   рассчитанное значение критерия Стьюдента равно его значению в таблице",
-            "Styudent mezonining hisoblangan qiymati 0 ga teng bo‘lsa / Если расчётное значение\n   критерия Стьюдента равно 0"
+            "Styudent mezonining hisoblangan qiymati jadvaldagi qiymatidan katta bo‘lsa",
+            "Styudent mezonining hisoblangan qiymati jadvaldagi qiymatidan kichik bo‘lsa",
+            "Styudent mezonining hisoblangan qiymati jadvaldagi qiymatiga teng bo‘lsa",
+            "Styudent mezonining hisoblangan qiymati 0 ga teng bo‘lsa"
           ],
           "correct": [
             0
@@ -1393,7 +1393,7 @@
         },
         {
           "id": 74,
-          "question": "Покажите выражение, определяющее коэффициент корреляции.\n To‘plamli korrelyatsiya koeffitsiyentini aniqlovchi bandni ko‘rsating.",
+          "question": "To‘plamli korrelyatsiya koeffitsiyentini aniqlovchi bandni ko‘rsating.",
           "options": [
             "Ryxj = √[(ryx1² + ryx2² - 2ryx1ryx2rx1x2)/(1 - rx1x2²)]",
             "R         = √[(r     ²+r         ²)/(1 - r         ²)]\n          yxj         yx1          yx2              x1x2",
@@ -1412,7 +1412,7 @@
         },
         {
           "id": 75,
-          "question": "Укажите пункт, в котором приведена формула для определения критерия\n Фишера.\n Fisher mezonini aniqlovchi formula keltirilgan bandni ko‘rsating.",
+          "question": "Fisher mezonini aniqlovchi formula keltirilgan bandni ko‘rsating.",
           "options": [
             "F = [R²/(1 - R²)] · [(n - m - 1)/m]",
             "F = R²/(1 - R²)",
@@ -1431,12 +1431,12 @@
         },
         {
           "id": 76,
-          "question": "Если расчётное значение критерия Фишера больше значения в таблице:\n Fisher mezonining hisoblangan qiymati jadvaldagi qiymatidan katta bo‘lsa:",
+          "question": "Fisher mezonining hisoblangan qiymati jadvaldagi qiymatidan katta bo‘lsa:",
           "options": [
-            "regressiya tenglamasi real o‘rganilayotgan iqtisodiy jarayonga mos deyiladi /\n   говорят, что уравнение регрессии соответствует реальному изучаемому\n   экономическому процессу",
-            "dinamik qatorlar 10% gacha xatolik bilan tekislangan deyiladi / говорят, что динамические\n   линии выравниваются с погрешностью до 10%",
-            "regressiya tenglamasining koeffitsiyentlari ahamiyatli deyiladi / коэффициенты уравнения\n   регрессии называются значимыми",
-            "korrelyatsiya koeffitsiyenti ishonchli deyiladi / коэффициент корреляции называется\n   надёжным"
+            "regressiya tenglamasi real o‘rganilayotgan iqtisodiy jarayonga mos deyiladi",
+            "dinamik qatorlar 10% gacha xatolik bilan tekislangan deyiladi",
+            "regressiya tenglamasining koeffitsiyentlari ahamiyatli deyiladi",
+            "korrelyatsiya koeffitsiyenti ishonchli deyiladi"
           ],
           "correct": [
             0
@@ -1450,12 +1450,12 @@
         },
         {
           "id": 77,
-          "question": "Если расчётное значение критерия Стьюдента больше значения в таблице:\n Styudent mezonining hisoblangan qiymati jadvaldagi qiymatidan katta bo‘lsa:",
+          "question": "Styudent mezonining hisoblangan qiymati jadvaldagi qiymatidan katta bo‘lsa:",
           "options": [
-            "regressiya tenglamasining koeffitsiyentlari ahamiyatli deyiladi / коэффициенты\n   уравнения регрессии называются значимыми",
-            "regressiya tenglamasi real o‘rganilayotgan iqtisodiy jarayonga mos deyiladi / говорят, что\n   уравнение регрессии соответствует реальному изучаемому экономическому процессу",
-            "dinamik qatorlar 10% gacha xatolik bilan tekislangan deyiladi / говорят, что динамические\n   линии выравниваются с погрешностью до 10%",
-            "regressiya tenglamasining koeffitsiyentlari ahamiyatli deyiladi / коэффициенты\n   уравнения регрессии называются значимыми"
+            "regressiya tenglamasining koeffitsiyentlari ahamiyatli deyiladi",
+            "regressiya tenglamasi real o‘rganilayotgan iqtisodiy jarayonga mos deyiladi",
+            "dinamik qatorlar 10% gacha xatolik bilan tekislangan deyiladi",
+            "regressiya tenglamasining koeffitsiyentlari ahamiyatli deyiladi"
           ],
           "correct": [
             0,
@@ -1470,7 +1470,7 @@
         },
         {
           "id": 78,
-          "question": "Покажите выражение, определяющее ошибку аппроксимации.\n Approksimasiya xatosini aniqlovchi bandni ko‘rsating.",
+          "question": "Approksimasiya xatosini aniqlovchi bandni ko‘rsating.",
           "options": [
             "ε = (1/n) Σ |(Yi - Ŷ)/Yi| · 100%",
             "ε = (1/n) Σ |(Yi - Ŷ)/Yi|",
@@ -1489,7 +1489,7 @@
         },
         {
           "id": 79,
-          "question": "Условие гомоскедастичности в регрессионной модели:\n Regressiya modelida gomoskedastiklikning sharti:",
+          "question": "Regressiya modelida gomoskedastiklikning sharti:",
           "options": [
             "M(εi²) = M(εj²)",
             "M(εi) · εj ≠ 0",
@@ -1508,7 +1508,7 @@
         },
         {
           "id": 80,
-          "question": "Условие гетероскедастичности в регрессионной модели:\n Regressiya modelida geteroskedastiklikning sharti:",
+          "question": "Regressiya modelida geteroskedastiklikning sharti:",
           "options": [
             "M(εi²) ≠ M(εj²)",
             "M(εi) · εj ≠ 0",
@@ -1527,12 +1527,12 @@
         },
         {
           "id": 81,
-          "question": "Укажите метод, используемый в статистическом прогнозировании.\n Statistik prognozlashda qo‘llanadigan usulni ko‘rsating.",
+          "question": "Statistik prognozlashda qo‘llanadigan usulni ko‘rsating.",
           "options": [
-            "Ekstrapolyasiya usuli / Метод экстраполяции",
-            "Potensiallar usuli / Метод потенциалов",
-            "Simpleks usuli / Симплексный метод",
-            "Evristik usul / Эвристический метод"
+            "Ekstrapolyasiya usuli",
+            "Potensiallar usuli",
+            "Simpleks usuli",
+            "Evristik usul"
           ],
           "correct": [
             0
@@ -1546,7 +1546,7 @@
         },
         {
           "id": 82,
-          "question": "Найдите объём этой выборки.\n Ushbu tanlanmaning hajmini toping.\n\n    xi       186        192         194\n\n    ni        2           5          3",
+          "question": "Ushbu tanlanmaning hajmini toping. xi       186        192         194 ni        2           5          3",
           "options": [
             "10",
             "194",
@@ -1565,7 +1565,7 @@
         },
         {
           "id": 83,
-          "question": "Найдите объём этой выборки.\n Ushbu tanlanmaning hajmini toping.\n\n    xi       186        192         194\n\n    ni        5          15          5",
+          "question": "Ushbu tanlanmaning hajmini toping. xi       186        192         194 ni        5          15          5",
           "options": [
             "25",
             "194",
@@ -1584,7 +1584,7 @@
         },
         {
           "id": 84,
-          "question": "Найдите объём этой выборки.\n Ushbu tanlanmaning hajmini toping.\n\n    xi       186        192         194\n\n    ni       12          15          3",
+          "question": "Ushbu tanlanmaning hajmini toping. xi       186        192         194 ni       12          15          3",
           "options": [
             "30",
             "194",
@@ -1603,7 +1603,7 @@
         },
         {
           "id": 85,
-          "question": "Найдите объём этой выборки.\n Ushbu tanlanmaning hajmini toping.\n\n    xi        5          9           4\n\n    ni        2          5           3",
+          "question": "Ushbu tanlanmaning hajmini toping. xi        5          9           4 ni        2          5           3",
           "options": [
             "10",
             "9",
@@ -1622,7 +1622,7 @@
         },
         {
           "id": 86,
-          "question": "Найдите объём этой выборки.\n Ushbu tanlanmaning hajmini toping.\n\n    xi       15          16         14\n\n    ni        2          5          13",
+          "question": "Ushbu tanlanmaning hajmini toping. xi       15          16         14 ni        2          5          13",
           "options": [
             "20",
             "16",
@@ -1641,7 +1641,7 @@
         },
         {
           "id": 87,
-          "question": "Найдите объём этой выборки.\n Ushbu tanlanmaning hajmini toping.\n\n    xi        5           9         4\n\n    ni        5          25         10",
+          "question": "Ushbu tanlanmaning hajmini toping. xi        5           9         4 ni        5          25         10",
           "options": [
             "40",
             "9",
@@ -1660,7 +1660,7 @@
         },
         {
           "id": 88,
-          "question": "Найдите выборочное среднее по данному выборочному распределению.\n Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping.\n\n    xi        1           2         3\n\n    ni        2           5         3",
+          "question": "Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping. xi        1           2         3 ni        2           5         3",
           "options": [
             "2,1",
             "21",
@@ -1679,7 +1679,7 @@
         },
         {
           "id": 89,
-          "question": "Найдите выборочное среднее по данному выборочному распределению.\n Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping.\n\n    xi        1           2         3\n\n    ni        3           2         5",
+          "question": "Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping. xi        1           2         3 ni        3           2         5",
           "options": [
             "2,2",
             "20",
@@ -1698,7 +1698,7 @@
         },
         {
           "id": 90,
-          "question": "Найдите выборочное среднее по данному выборочному распределению.\n Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping.\n\n    xi        2          1          3\n\n    ni        3          2          5",
+          "question": "Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping. xi        2          1          3 ni        3          2          5",
           "options": [
             "2,3",
             "23",
@@ -1717,7 +1717,7 @@
         },
         {
           "id": 91,
-          "question": "Найдите выборочное среднее по данному выборочному распределению.\n Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping.\n\n    xi       10          20         1\n\n    ni        1          2          7",
+          "question": "Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping. xi       10          20         1 ni        1          2          7",
           "options": [
             "5,7",
             "57",
@@ -1736,7 +1736,7 @@
         },
         {
           "id": 92,
-          "question": "Найдите выборочное среднее по данному выборочному распределению.\n Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping.\n\n    xi        1          2          3\n\n    ni        1          2          3",
+          "question": "Tanlanmaning quyidagi berilgan taqsimoti bo‘yicha tanlanma o‘rta qiymatni toping. xi        1          2          3 ni        1          2          3",
           "options": [
             "7/3",
             "14/8",
@@ -1755,7 +1755,7 @@
         },
         {
           "id": 93,
-          "question": "Найдите медиану вариационного ряда 1,2,3,4,5,6,8.\n Ushbu 1,2,3,4,5,6,8 variatsion qatorning medianasini toping.",
+          "question": "Ushbu 1,2,3,4,5,6,8 variatsion qatorning medianasini toping.",
           "options": [
             "4",
             "5",
@@ -1774,7 +1774,7 @@
         },
         {
           "id": 94,
-          "question": "Найдите медиану вариационного ряда 7,6,5,4,3,2,1.\n Ushbu 7,6,5,4,3,2,1 variatsion qatorning medianasini toping.",
+          "question": "Ushbu 7,6,5,4,3,2,1 variatsion qatorning medianasini toping.",
           "options": [
             "4",
             "5",
@@ -1793,7 +1793,7 @@
         },
         {
           "id": 95,
-          "question": "Найдите медиану вариационного ряда 1,2,4,6,7,8.\n Ushbu 1,2,4,6,7,8 variatsion qatorning medianasini toping.",
+          "question": "Ushbu 1,2,4,6,7,8 variatsion qatorning medianasini toping.",
           "options": [
             "5",
             "3",
@@ -1812,7 +1812,7 @@
         },
         {
           "id": 96,
-          "question": "Найдите медиану вариационного ряда 1,2,3,4,5,6.\n Ushbu 1,2,3,4,5,6 variatsion qatorning medianasini toping.",
+          "question": "Ushbu 1,2,3,4,5,6 variatsion qatorning medianasini toping.",
           "options": [
             "3,5",
             "5",
@@ -1831,7 +1831,7 @@
         },
         {
           "id": 97,
-          "question": "Найдите медиану вариационного ряда 2,3,3,8,9,10.\n Ushbu 2,3,3,8,9,10 variatsion qatorning medianasini toping.",
+          "question": "Ushbu 2,3,3,8,9,10 variatsion qatorning medianasini toping.",
           "options": [
             "5,5",
             "5",
@@ -1850,7 +1850,7 @@
         },
         {
           "id": 98,
-          "question": "Найдите медиану вариационного ряда 3,3,8,9,10,12.\n Ushbu 3,3,8,9,10,12 variatsion qatorning medianasini toping.",
+          "question": "Ushbu 3,3,8,9,10,12 variatsion qatorning medianasini toping.",
           "options": [
             "8",
             "5",
@@ -1869,7 +1869,7 @@
         },
         {
           "id": 99,
-          "question": "Составьте вариационный ряд из ряда 3,2,4,5,1.\n Ushbu 3,2,4,5,1 qatordan variatsion qator tuzing.",
+          "question": "Ushbu 3,2,4,5,1 qatordan variatsion qator tuzing.",
           "options": [
             "5,4,3,2,1",
             "5,4,3,1,2",
@@ -1888,7 +1888,7 @@
         },
         {
           "id": 100,
-          "question": "Составьте вариационный ряд из ряда 1,1,3,3,4,4,6,5,2.\n Ushbu 1,1,3,3,4,4,6,5,2 qatordan variatsion qator tuzing.",
+          "question": "Ushbu 1,1,3,3,4,4,6,5,2 qatordan variatsion qator tuzing.",
           "options": [
             "1,1,2,3,3,4,4,5,6",
             "5,4,3,1,2,4,5,6,1",
@@ -1907,7 +1907,7 @@
         },
         {
           "id": 101,
-          "question": "Составьте вариационный ряд из ряда 2,2,5,5,4,4,4,3,6,6.\n Ushbu 2,2,5,5,4,4,4,3,6,6 qatordan variatsion qator tuzing.",
+          "question": "Ushbu 2,2,5,5,4,4,4,3,6,6 qatordan variatsion qator tuzing.",
           "options": [
             "2,2,3,4,4,4,5,5,6,6",
             "2,6,3,1,2,4,5,6,1",
@@ -1926,7 +1926,7 @@
         },
         {
           "id": 102,
-          "question": "Составьте вариационный ряд из ряда 5,6,3,2.\n Ushbu 5,6,3,2 qatordan variatsion qator tuzing.",
+          "question": "Ushbu 5,6,3,2 qatordan variatsion qator tuzing.",
           "options": [
             "6,5,3,2",
             "5,6,3,2",
@@ -1945,7 +1945,7 @@
         },
         {
           "id": 103,
-          "question": "Составьте вариационный ряд из ряда 1,1,2,3,2,3.\n Ushbu 1,1,2,3,2,3 qatordan variatsion qator tuzing.",
+          "question": "Ushbu 1,1,2,3,2,3 qatordan variatsion qator tuzing.",
           "options": [
             "3,3,2,2,1,1",
             "1,1,2,2,3,2",
@@ -1964,7 +1964,7 @@
         },
         {
           "id": 104,
-          "question": "Составьте вариационный ряд из ряда 1,4,5,3,7.\n Ushbu 1,4,5,3,7 qatordan variatsion qator tuzing.",
+          "question": "Ushbu 1,4,5,3,7 qatordan variatsion qator tuzing.",
           "options": [
             "1,3,4,5,7",
             "1,3,4,7,5",
@@ -1983,7 +1983,7 @@
         },
         {
           "id": 105,
-          "question": "К чему равен размах: 120, 250, 300, 425?\n Variatsion qatorning variatsion kengligini aniqlang: 120, 250, 300, 425.",
+          "question": "Variatsion qatorning variatsion kengligini aniqlang: 120, 250, 300, 425.",
           "options": [
             "305",
             "250",
@@ -2002,7 +2002,7 @@
         },
         {
           "id": 106,
-          "question": "К чему равен размах: 220, 120, 80, 50?\n Variatsion qatorning variatsion kengligini aniqlang: 220, 120, 80, 50.",
+          "question": "Variatsion qatorning variatsion kengligini aniqlang: 220, 120, 80, 50.",
           "options": [
             "170",
             "50",
@@ -2021,7 +2021,7 @@
         },
         {
           "id": 107,
-          "question": "К чему равен размах: 20, 50, 80, 120?\n Variatsion qatorning variatsion kengligini aniqlang: 20, 50, 80, 120.",
+          "question": "Variatsion qatorning variatsion kengligini aniqlang: 20, 50, 80, 120.",
           "options": [
             "100",
             "50",
@@ -2040,7 +2040,7 @@
         },
         {
           "id": 108,
-          "question": "К чему равен размах: 20, 50, 80, 110?\n Variatsion qatorning variatsion kengligini aniqlang: 20, 50, 80, 110.",
+          "question": "Variatsion qatorning variatsion kengligini aniqlang: 20, 50, 80, 110.",
           "options": [
             "90",
             "50",
@@ -2059,7 +2059,7 @@
         },
         {
           "id": 109,
-          "question": "К чему равен размах: 250, 150, 80, 30?\n Variatsion qatorning variatsion kengligini aniqlang: 250, 150, 80, 30.",
+          "question": "Variatsion qatorning variatsion kengligini aniqlang: 250, 150, 80, 30.",
           "options": [
             "220",
             "50",
@@ -2078,7 +2078,7 @@
         },
         {
           "id": 110,
-          "question": "К чему равен размах: 200, 150, 80, 50?\n Miqdoriy ma’lumotlar qatorining variatsion kengligini aniqlang: 200, 150, 80, 50.",
+          "question": "Miqdoriy ma’lumotlar qatorining variatsion kengligini aniqlang: 200, 150, 80, 50.",
           "options": [
             "150",
             "50",
@@ -2097,12 +2097,12 @@
         },
         {
           "id": 111,
-          "question": "Найдите моду ряда 1,1,2,3,2,3,3.\n Ushbu 1,1,2,3,2,3,3 qatorning modasini toping.",
+          "question": "Ushbu 1,1,2,3,2,3,3 qatorning modasini toping.",
           "options": [
             "3",
             "2",
             "1",
-            "2 va 3 / 2 и 3"
+            "2 va 3"
           ],
           "correct": [
             0
@@ -2116,9 +2116,9 @@
         },
         {
           "id": 112,
-          "question": "Найдите моду ряда 1,1,2,3,2,3,3,1,2,3,2.\n Ushbu 1,1,2,3,2,3,3,1,2,3,2 qatorning modasini toping.",
+          "question": "Ushbu 1,1,2,3,2,3,3,1,2,3,2 qatorning modasini toping.",
           "options": [
-            "2 va 3 / 2 и 3",
+            "2 va 3",
             "2",
             "1",
             "3"
@@ -2135,12 +2135,12 @@
         },
         {
           "id": 113,
-          "question": "Найдите моду ряда 4,4,3,2,3,2,3,3,1,2,3,2.\n Ushbu 4,4,3,2,3,2,3,3,1,2,3,2 qatorning modasini toping.",
+          "question": "Ushbu 4,4,3,2,3,2,3,3,1,2,3,2 qatorning modasini toping.",
           "options": [
             "3",
             "2",
             "4",
-            "4 va ¼ / 4 и ¼"
+            "4 va ¼"
           ],
           "correct": [
             0
@@ -2154,9 +2154,9 @@
         },
         {
           "id": 114,
-          "question": "Найдите моду ряда 4,4,3,2,3,2,3,3,1,2,3,2,4,4,4.\n Ushbu 4,4,3,2,3,2,3,3,1,2,3,2,4,4,4 qatorning modasini toping.",
+          "question": "Ushbu 4,4,3,2,3,2,3,3,1,2,3,2,4,4,4 qatorning modasini toping.",
           "options": [
-            "4 va 3 / 4 и 3",
+            "4 va 3",
             "3",
             "2",
             "4"
@@ -2173,12 +2173,12 @@
         },
         {
           "id": 115,
-          "question": "Найдите моду ряда 2,2,3,3,3,4,4,5,5,4,4.\n Ushbu 2,2,3,3,3,4,4,5,5,4,4 qatorning modasini toping.",
+          "question": "Ushbu 2,2,3,3,3,4,4,5,5,4,4 qatorning modasini toping.",
           "options": [
             "4",
             "3",
             "2",
-            "4 va 3 / 4 и 3"
+            "4 va 3"
           ],
           "correct": [
             0
@@ -2192,12 +2192,12 @@
         },
         {
           "id": 116,
-          "question": "Найдите моду ряда 2,2,3,3,3,4,4,5,5,4,4,2,2,2.\n Ushbu 2,2,3,3,3,4,4,5,5,4,4,2,2,2 qatorning modasini toping.",
+          "question": "Ushbu 2,2,3,3,3,4,4,5,5,4,4,2,2,2 qatorning modasini toping.",
           "options": [
             "2",
             "3",
             "4",
-            "4 va 3 / 4 и 3"
+            "4 va 3"
           ],
           "correct": [
             0
@@ -2211,7 +2211,7 @@
         },
         {
           "id": 117,
-          "question": "Дана выборка: 1,1,2,2,2,3,3,3,3,3,4,4,4. Опишите в виде статистического\n распределения частот.\n Quyidagi tanlanma berilgan: 1,1,2,2,2,3,3,3,3,3,4,4,4. Statistik chastotalar taqsimoti ko‘rinishida\n tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,2,2,2,3,3,3,3,3,4,4,4. Statistik chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3      4\n\n               n         2          3     5      3",
             "x         1          2     3      4\n\n               n         3          3     5      3",
@@ -2230,7 +2230,7 @@
         },
         {
           "id": 118,
-          "question": "Дана выборка: 1,1,1,2,2,2,3,3,3,3,3,4,4,4. Опишите в виде статистического\n распределения частот.\n Quyidagi tanlanma berilgan: 1,1,1,2,2,2,3,3,3,3,3,4,4,4. Statistik chastotalar taqsimoti\n ko‘rinishida tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,1,2,2,2,3,3,3,3,3,4,4,4. Statistik chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3      4\n\n               n         3          3     5      3",
             "x         1          2     3      4\n\n               n         2          3     5      3",
@@ -2249,7 +2249,7 @@
         },
         {
           "id": 119,
-          "question": "Дана выборка: 1,1,1,2,2,2,3,3,3,3,3,4,4,4,4. Опишите в виде статистического\n распределения частот.\n Quyidagi tanlanma berilgan: 1,1,1,2,2,2,3,3,3,3,3,4,4,4,4. Statistik chastotalar taqsimoti\n ko‘rinishida tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,1,2,2,2,3,3,3,3,3,4,4,4,4. Statistik chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3     4\n\n               n         3          3     5     4",
             "x         1          2     3     4\n\n               n         2          3     5     3",
@@ -2268,7 +2268,7 @@
         },
         {
           "id": 120,
-          "question": "Дана выборка: 1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4. Опишите в виде статистического\n распределения частот.\n Quyidagi tanlanma berilgan: 1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4. Statistik chastotalar taqsimoti\n ko‘rinishida tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,1,2,2,2,2,2,3,3,3,3,3,4,4,4,4. Statistik chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3     4\n\n               n         3          5     5     4",
             "x         1          2     3     4\n\n               n         2          3     5     3",
@@ -2287,7 +2287,7 @@
         },
         {
           "id": 121,
-          "question": "Дана выборка: 1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4. Опишите в виде\n статистического распределения частот.\n Quyidagi tanlanma berilgan: 1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4. Statistik chastotalar taqsimoti\n ko‘rinishida tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4. Statistik chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3      4\n\n               n         3          5     6      4",
             "x         1          2     3      4\n\n               n         2          3     5      3",
@@ -2306,7 +2306,7 @@
         },
         {
           "id": 122,
-          "question": "Дана выборка: 1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4. Опишите в виде\n статистического распределения частот.\n Quyidagi tanlanma berilgan: 1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4. Statistik chastotalar taqsimoti\n ko‘rinishida tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4. Statistik chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3      4\n\n               n         3          5     6      5",
             "x         1          2     3      4\n\n               n         2          3     5      3",
@@ -2325,7 +2325,7 @@
         },
         {
           "id": 123,
-          "question": "Дана выборка: 2,2,2,3,3. Опишите в виде статистического относительного\n распределения частот.\n Quyidagi tanlanma berilgan: 2,2,2,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida\n tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 2,2,2,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         2          3\n\n               ω        0.6         0.4",
             "x         2          3\n\n               ω        1.6         0.4",
@@ -2344,7 +2344,7 @@
         },
         {
           "id": 124,
-          "question": "Дана выборка: 2,2,2,2,3,3,3,3. Опишите в виде статистического относительного\n распределения частот.\n Quyidagi tanlanma berilgan: 2,2,2,2,3,3,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida\n tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 2,2,2,2,3,3,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         2          3\n\n               ω        0.5         0.5",
             "x         2          3\n\n               ω        1.6         0.4",
@@ -2363,7 +2363,7 @@
         },
         {
           "id": 125,
-          "question": "Дана выборка: 1,1,2,2,2,2,3,3,3,3. Опишите в виде статистического\n относительного распределения частот.\n Quyidagi tanlanma berilgan: 1,1,2,2,2,2,3,3,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida\n tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,2,2,2,2,3,3,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3\n\n               ω        0.2         0.4   0.4",
             "x         1          2     3\n\n               ω        0.2         1.6   0.4",
@@ -2382,7 +2382,7 @@
         },
         {
           "id": 126,
-          "question": "Дана выборка: 1,1,2,2,3. Опишите в виде статистического относительного\n распределения частот.\n Quyidagi tanlanma berilgan: 1,1,2,2,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida\n tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,2,2,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3\n\n               ω        0.4         0.4   0.2",
             "x         1          2     3\n\n               ω        0.2         1.6   0.4",
@@ -2401,7 +2401,7 @@
         },
         {
           "id": 127,
-          "question": "Дана выборка: 1,2,2,3,3. Опишите в виде статистического относительного\n распределения частот.\n Quyidagi tanlanma berilgan: 1,2,2,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida\n tasvirlang.",
+          "question": "Quyidagi tanlanma berilgan: 1,2,2,3,3. Statistik nisbiy chastotalar taqsimoti ko‘rinishida tasvirlang.",
           "options": [
             "x         1          2     3\n\n               ω        0.2         0.4   0.4",
             "x         1          2     3\n\n               ω        0.2         1.6   0.4",
@@ -2420,7 +2420,7 @@
         },
         {
           "id": 128,
-          "question": "Дана выборка: 1,2,2,3,3. Найдите среднее значение выборки.\n Quyidagi tanlanma berilgan: 1,2,2,3,3. Tanlanmaning o‘rta qiymatini toping.",
+          "question": "Quyidagi tanlanma berilgan: 1,2,2,3,3. Tanlanmaning o‘rta qiymatini toping.",
           "options": [
             "2.2",
             "2",
@@ -2439,7 +2439,7 @@
         },
         {
           "id": 129,
-          "question": "Дана выборка: 1,1,1,1,2,2,2,3,3,3. Найдите среднее значение выборки.\n Quyidagi tanlanma berilgan: 1,1,1,1,2,2,2,3,3,3. Tanlanmaning o‘rta qiymatini toping.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,1,1,2,2,2,3,3,3. Tanlanmaning o‘rta qiymatini toping.",
           "options": [
             "1.9",
             "2",
@@ -2458,7 +2458,7 @@
         },
         {
           "id": 130,
-          "question": "Дана выборка: 1,1,2,2,3. Найдите среднее значение выборки.\n Quyidagi tanlanma berilgan: 1,1,2,2,3. Tanlanmaning o‘rta qiymatini toping.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,2,2,3. Tanlanmaning o‘rta qiymatini toping.",
           "options": [
             "1.8",
             "2",
@@ -2477,7 +2477,7 @@
         },
         {
           "id": 131,
-          "question": "Дана выборка: 1,1,3,3,3,3,4,4,4,4. Найдите среднее значение выборки.\n Quyidagi tanlanma berilgan: 1,1,3,3,3,3,4,4,4,4. Tanlanmaning o‘rta qiymatini toping.",
+          "question": "Quyidagi tanlanma berilgan: 1,1,3,3,3,3,4,4,4,4. Tanlanmaning o‘rta qiymatini toping.",
           "options": [
             "3",
             "2",
@@ -2496,7 +2496,7 @@
         },
         {
           "id": 132,
-          "question": "Дана выборка: 1,3,3,3,3,4,4,4,4,4. Найдите среднее значение выборки.\n Quyidagi tanlanma berilgan: 1,3,3,3,3,4,4,4,4,4. Tanlanmaning o‘rta qiymatini toping.",
+          "question": "Quyidagi tanlanma berilgan: 1,3,3,3,3,4,4,4,4,4. Tanlanmaning o‘rta qiymatini toping.",
           "options": [
             "3.3",
             "2",
@@ -2515,7 +2515,7 @@
         },
         {
           "id": 133,
-          "question": "Если дисперсия статистического распределения равна 25, найдите среднее\n квадратическое отклонение.\n Statistik taqsimotning dispersiyasi 25 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
+          "question": "Statistik taqsimotning dispersiyasi 25 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
           "options": [
             "5",
             "4",
@@ -2534,7 +2534,7 @@
         },
         {
           "id": 134,
-          "question": "Если дисперсия статистического распределения равна 4, найдите среднее\n квадратическое отклонение.\n Statistik taqsimotning dispersiyasi 4 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
+          "question": "Statistik taqsimotning dispersiyasi 4 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
           "options": [
             "2",
             "5",
@@ -2553,7 +2553,7 @@
         },
         {
           "id": 135,
-          "question": "Если дисперсия статистического распределения равна 9, найдите среднее\n квадратическое отклонение.\n Statistik taqsimotning dispersiyasi 9 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
+          "question": "Statistik taqsimotning dispersiyasi 9 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
           "options": [
             "3",
             "4",
@@ -2572,7 +2572,7 @@
         },
         {
           "id": 136,
-          "question": "Если дисперсия статистического распределения равна 36, найдите среднее\n квадратическое отклонение.\n Statistik taqsimotning dispersiyasi 36 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
+          "question": "Statistik taqsimotning dispersiyasi 36 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
           "options": [
             "6",
             "4",
@@ -2591,7 +2591,7 @@
         },
         {
           "id": 137,
-          "question": "Если дисперсия статистического распределения равна 49, найдите среднее\n квадратическое отклонение.\n Statistik taqsimotning dispersiyasi 49 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
+          "question": "Statistik taqsimotning dispersiyasi 49 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
           "options": [
             "7",
             "6",
@@ -2610,7 +2610,7 @@
         },
         {
           "id": 138,
-          "question": "Если дисперсия статистического распределения равна 64, найдите среднее\n квадратическое отклонение.\n Statistik taqsimotning dispersiyasi 64 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
+          "question": "Statistik taqsimotning dispersiyasi 64 ga teng bo‘lsa o‘rtacha kvadratik chetlanishni toping.",
           "options": [
             "8",
             "5",
@@ -2629,7 +2629,7 @@
         },
         {
           "id": 139,
-          "question": "Если среднее квадратическое отклонение статистического распределения\n равно 5, найдите дисперсию статистического распределения.\n Statistik taqsimotning o‘rtacha kvadratik chetlanishi 5 ga teng bo‘lsa, statistik taqsimotning\n dispersiyasini toping.",
+          "question": "Statistik taqsimotning o‘rtacha kvadratik chetlanishi 5 ga teng bo‘lsa, statistik taqsimotning dispersiyasini toping.",
           "options": [
             "25",
             "15",
@@ -2648,7 +2648,7 @@
         },
         {
           "id": 140,
-          "question": "Если среднее квадратическое отклонение статистического распределения\n равно 3, найдите дисперсию статистического распределения.\n Statistik taqsimotning o‘rtacha kvadratik chetlanishi 3 ga teng bo‘lsa, statistik taqsimotning\n dispersiyasini toping.",
+          "question": "Statistik taqsimotning o‘rtacha kvadratik chetlanishi 3 ga teng bo‘lsa, statistik taqsimotning dispersiyasini toping.",
           "options": [
             "9",
             "15",
@@ -2667,7 +2667,7 @@
         },
         {
           "id": 141,
-          "question": "Если среднее квадратическое отклонение статистического распределения\n равно 4, найдите дисперсию статистического распределения.\n Statistik taqsimotning o‘rtacha kvadratik chetlanishi 4 ga teng bo‘lsa, statistik taqsimotning\n dispersiyasini toping.",
+          "question": "Statistik taqsimotning o‘rtacha kvadratik chetlanishi 4 ga teng bo‘lsa, statistik taqsimotning dispersiyasini toping.",
           "options": [
             "16",
             "15",
@@ -2686,7 +2686,7 @@
         },
         {
           "id": 142,
-          "question": "Если среднее квадратическое отклонение статистического распределения\n равно 6, найдите дисперсию статистического распределения.\n Statistik taqsimotning o‘rtacha kvadratik chetlanishi 6 ga teng bo‘lsa, statistik taqsimotning\n dispersiyasini toping.",
+          "question": "Statistik taqsimotning o‘rtacha kvadratik chetlanishi 6 ga teng bo‘lsa, statistik taqsimotning dispersiyasini toping.",
           "options": [
             "36",
             "15",
@@ -2705,7 +2705,7 @@
         },
         {
           "id": 143,
-          "question": "Если среднее квадратическое отклонение статистического распределения\n равно 7, найдите дисперсию статистического распределения.\n Statistik taqsimotning o‘rtacha kvadratik chetlanishi 7 ga teng bo‘lsa, statistik taqsimotning\n dispersiyasini toping.",
+          "question": "Statistik taqsimotning o‘rtacha kvadratik chetlanishi 7 ga teng bo‘lsa, statistik taqsimotning dispersiyasini toping.",
           "options": [
             "49",
             "16",
@@ -2724,7 +2724,7 @@
         },
         {
           "id": 144,
-          "question": "Если среднее квадратическое отклонение статистического распределения\n равно 2, найдите дисперсию статистического распределения.\n Statistik taqsimotning o‘rtacha kvadratik chetlanishi 2 ga teng bo‘lsa, statistik taqsimotning\n dispersiyasini toping.",
+          "question": "Statistik taqsimotning o‘rtacha kvadratik chetlanishi 2 ga teng bo‘lsa, statistik taqsimotning dispersiyasini toping.",
           "options": [
             "4",
             "9",
@@ -2743,7 +2743,7 @@
         },
         {
           "id": 145,
-          "question": "Если объём выборки равен n = 3, а её среднее значение равно x̄ = 4, найдите\n фиксированную оценку общего среднего значения.\n Agar tanlanma to‘plamning hajmi n = 3 bo‘lib, uning o‘rtacha qiymati x̄ = 4 bo‘lsa, bosh o‘rtacha\n qiymatning siljimagan bahosini toping.",
+          "question": "Agar tanlanma to‘plamning hajmi n = 3 bo‘lib, uning o‘rtacha qiymati x̄ = 4 bo‘lsa, bosh o‘rtacha qiymatning siljimagan bahosini toping.",
           "options": [
             "4",
             "8",
@@ -2762,7 +2762,7 @@
         },
         {
           "id": 146,
-          "question": "Если объём выборки равен n = 2, а её среднее значение равно x̄ = 5, найдите\n фиксированную оценку общего среднего значения.\n Agar tanlanma to‘plamning hajmi n = 2 bo‘lib, uning o‘rtacha qiymati x̄ = 5 bo‘lsa, bosh o‘rtacha\n qiymatning siljimagan bahosini toping.",
+          "question": "Agar tanlanma to‘plamning hajmi n = 2 bo‘lib, uning o‘rtacha qiymati x̄ = 5 bo‘lsa, bosh o‘rtacha qiymatning siljimagan bahosini toping.",
           "options": [
             "5",
             "10",
@@ -2781,7 +2781,7 @@
         },
         {
           "id": 147,
-          "question": "Если объём выборки равен n = 3, а её среднее значение равно x̄ = 6, найдите\n фиксированную оценку общего среднего значения.\n Agar tanlanma to‘plamning hajmi n = 3 bo‘lib, uning o‘rtacha qiymati x̄ = 6 bo‘lsa, bosh o‘rtacha\n qiymatning siljimagan bahosini toping.",
+          "question": "Agar tanlanma to‘plamning hajmi n = 3 bo‘lib, uning o‘rtacha qiymati x̄ = 6 bo‘lsa, bosh o‘rtacha qiymatning siljimagan bahosini toping.",
           "options": [
             "6",
             "18",
@@ -2800,7 +2800,7 @@
         },
         {
           "id": 148,
-          "question": "Если объём выборки равен n = 4, а её среднее значение равно x̄ = 7, найдите\n фиксированную оценку общего среднего значения.\n Agar tanlanma to‘plamning hajmi n = 4 bo‘lib, uning o‘rtacha qiymati x̄ = 7 bo‘lsa, bosh o‘rtacha\n qiymatning siljimagan bahosini toping.",
+          "question": "Agar tanlanma to‘plamning hajmi n = 4 bo‘lib, uning o‘rtacha qiymati x̄ = 7 bo‘lsa, bosh o‘rtacha qiymatning siljimagan bahosini toping.",
           "options": [
             "7",
             "14",
@@ -2819,7 +2819,7 @@
         },
         {
           "id": 149,
-          "question": "Если объём выборки равен n = 5, а её среднее значение равно x̄ = 10, найдите\n фиксированную оценку общего среднего значения.\n Agar tanlanma to‘plamning hajmi n = 5 bo‘lib, uning o‘rtacha qiymati x̄ = 10 bo‘lsa, bosh\n o‘rtacha qiymatning siljimagan bahosini toping.",
+          "question": "Agar tanlanma to‘plamning hajmi n = 5 bo‘lib, uning o‘rtacha qiymati x̄ = 10 bo‘lsa, bosh o‘rtacha qiymatning siljimagan bahosini toping.",
           "options": [
             "10",
             "50",
@@ -2838,7 +2838,7 @@
         },
         {
           "id": 150,
-          "question": "Если объём выборки равен n = 10, а её среднее значение равно x̄ = 15, найдите\n фиксированную оценку общего среднего значения.\n Agar tanlanma to‘plamning hajmi n = 10 bo‘lib, uning o‘rtacha qiymati x̄ = 15 bo‘lsa, bosh\n o‘rtacha qiymatning siljimagan bahosini toping.",
+          "question": "Agar tanlanma to‘plamning hajmi n = 10 bo‘lib, uning o‘rtacha qiymati x̄ = 15 bo‘lsa, bosh o‘rtacha qiymatning siljimagan bahosini toping.",
           "options": [
             "15",
             "150",
