@@ -35,7 +35,9 @@ def answer_kb(sess,q,learn=False):
 def textq(q,num=None,total=None,show=False):
     head=f"{num}/{total}\n\n" if num else ""
     body=head+q["question"]+"\n\n"+"\n".join(f"{chr(65+i)}) {x}" for i,x in enumerate(q["options"]))
-    if show:
+    if show and not q.get("verified",True):
+        body+="\n\n⚠️ Javob manbada tasdiqlanmagan"
+    if show and q.get("verified",True):
         body+="\n\n✅ To‘g‘ri javob: "+", ".join(chr(65+i) for i in q["correct"])
     return body
 
@@ -74,9 +76,10 @@ async def mode(c:CallbackQuery):
     await c.answer(); _,md,key=c.data.split(":")
     n=len(DATA[key]["questions"])
     ids=list(range(n))
-    if md=="exam":
-        random.shuffle(ids); ids=ids[:min(50,n)]
-    elif md=="train": random.shuffle(ids)
+    if md in ("exam","train"):
+        ids=[i for i,q in enumerate(DATA[key]["questions"]) if q.get("verified",True) and q.get("correct") and len(q.get("options",[]))>=3]
+        random.shuffle(ids)
+        if md=="exam": ids=ids[:min(50,len(ids))]
     sessions[c.from_user.id]={"subject":key,"mode":md,"ids":ids,"pos":0,"score":0,"nonce":None}
     await send_current(c.message,c.from_user.id)
 
